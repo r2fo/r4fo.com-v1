@@ -4,10 +4,10 @@ date: 2023-11-1T0:0:0+1:00
 draft: false
 language: en
 description: Privacy Policy
-featured_image: ../assets/images/featured/privacypolicy.webp
+featured_image: ../assets/images/featured/privacypolicy.png
 ---
 
-### Last updated: 2 December 2023
+### Last updated: 3 December 2023 @ 18:06 CET
 View the [changelog](#changelog) at the bottom of this page
 
 <p class="mb-8 font-normal text-gray-500 dark:text-gray-400 sm:text-xl">I run these services so people don't get exposed to ads, tracking and fingerprinting from big platforms. Logically, ...</p>
@@ -23,9 +23,9 @@ View the [changelog](#changelog) at the bottom of this page
 
 ## Data collected by the Operator
 ### This website (r4fo.com)
-- Hosted by GitHub Pages, to ensure uptime in case of server maintenance.
-- I do not collect any data, but GitHub probably does
-- <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">Their privacy policy</a>.
+- Hosted by Cloudflare Pages, to ensure uptime in case of server maintenance.
+- I do not collect any data, but Cloudflare probably does
+- <a href="https://www.cloudflare.com/privacypolicy/">Their privacy policy</a>.
 
 ### Nginx
 
@@ -41,9 +41,10 @@ View the [changelog](#changelog) at the bottom of this page
 ## Third Parties {#third-parties}
 - Piped is hosted on a server provided by <strong style="color: hsl(184,73%,29%);">Netcup</strong>. [Their privacy policy](https://www.netcup.eu/kontakt/datenschutzerklaerung.php)
 - All other services are hosted on a server provided by <strong style="color: red;">Oracle Cloud Infrastructure</strong>. [Their privacy policy](https://www.oracle.com/legal/privacy/services-privacy-policy.html)
-- <strong style="color: orange;">Cloudflare</strong> is used for <strong style="color: hsl(210, 92%, 56%);">CDN and security</strong>. Cloudflare may log traffic that looks suspicious, normal users do not have to worry since only bots and abusers fall into this. These WAF logs include: IP Address, User Agent and Query. Cloudflare discards these WAF logs after 14 days. [Their privacy policy](https://www.cloudflare.com/en-gb/privacypolicy/)
+- <strong style="color: orange;">Cloudflare</strong> is used for <strong style="color: hsl(210, 92%, 56%);">CDN and security</strong>. Cloudflare may log traffic that looks suspicious, normal users do not have to worry since only bots and abusers fall into this. These WAF logs include: IP Address, User Agent and Query. Cloudflare discards these WAF logs after 14 days. [Their privacy policy](https://www.cloudflare.com/privacypolicy/)
 - <strong style="color: hsl(270, 60%, 70%);">Crowdsec</strong> is used for <strong style="color: hsl(210, 92%, 56%);">security</strong>. Crowdsec is open source and runs locally. In case of abuse, it reports the IP address to Crowdsec Threat Intelligence. Again, normal users do not have to worry since Crowdsec only reports back abusive IP Addresses. [Their privacy policy](https://www.crowdsec.net/privacy-policy)
 
 ## Changelog {#changelog}
+[3 Dec 2023] r4fo.com is now being hosted by Cloudflare Pages, previously by GitHub Pages <br>
 [2 Dec 2023] Status page is now selfhosted <br>
 [25 Nov 2023] Created privacy policy

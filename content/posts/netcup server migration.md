@@ -7,8 +7,8 @@ summary: Now we have way more bandwidth and can provide services to more people.
 description: Now we have way more bandwidth and can provide services to more people.
 author: Admin
 authorimage: ../assets/images/global/author.webp
-categories: News
-tags: News
+categories: Transparency
+tags: Transparency
 ---
 
 Our Oracle server, with its 10TB bandwidth, used to suffice for hosting private frontends. But as our Piped user count grew, so did our bandwidth needs.

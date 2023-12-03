@@ -7,7 +7,7 @@ description: Donate
 ---
 
 <div style="width: 1000px; height: 500px;">
-    <img src="/images/donate.webp" width="50%" height="50%">
+    <img src="/images/donate.png" width="50%" height="50%">
 </div>
 
 > Hosting these services costs money, and lots of my spare time. Donations are really appreciated and improve the services for everyone.
