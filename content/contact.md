@@ -12,8 +12,8 @@ description: Contact
 <ul>
 <li>
 Email (‼️ unencrypted): <a href="mailto:admin@r4fo.com">admin@r4fo.com</a> <br>
-Please encrypt any email you send me using my <a href="https://r4fo.com/pgp.txt">PGP key</a> <br>
-PGP fingerprint: <code>9A2B 9F9F CB85 3E35 3168  C116 14BD 409D E35E 0B01</code>
+Please encrypt any email you send me using my <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/2C62F088CD754C11A66E28170C6559EE0758F8E0">PGP key</a> <br>
+PGP fingerprint: <code>2C62 F088 CD75 4C11 A66E  2817 0C65 59EE 0758 F8E0</code>
 </li>
 </ul>
 
@@ -24,9 +24,5 @@ Matrix (🔐 End-to-end encrypted): <a href="https://matrix.to/#/@r4fo:matrix.or
 </li>
 </ul>
 
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
