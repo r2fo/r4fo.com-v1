@@ -1,5 +1,5 @@
 baseURL: ''
-title: TailBliss
+title: R4fo.com
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -46,46 +46,18 @@ markup:
       xhtml: false
 
 params:
-  author: Nusser Studios
+  author: Rafo
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  moto: "Privacy Services"
+  description: "Use all the popular platforms without exposure to 📢 ads, 👁️ tracking or ☝️fingerprinting."
   disable_theme_toggle: false
-  disable_stay_uptodate: false
+  disable_stay_uptodate: true
 
-  p1:
-    heading: "Our mission"
-    image: "images/pages/our-mission.png"
-    content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-      - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
-      - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
-  p2:
-    heading: "Just in time for Hacktoberfest with JIT Tailwind."
-    image: "images/pages/hacktoberfest.jpg"
-    content:
-      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
-  p3:
-    heading: "Backed by world-renowned investors"
-    content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-    links:
-      - text: Meet our investors and advisors
-        url: "#"
-    logos:
-      - identifier: a
-        image: "images/global/sample-logo.svg"
-        alt: "a"
-      - identifier: b
-      - identifier: c
-      - identifier: d
-      - identifier: e
-      - identifier: f
   p4:
     heading: "From the blog"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Stay up-to-date about the latest changes and updates"
   p5:
     heading: "Stay Up to Date"
     content:
@@ -97,90 +69,67 @@ params:
 
   social_media:
     github:
-      enabled: true
-      url: 'https://github.com/nusserstudios'
+      enabled: false
+      url: 'https://github.com/'
     facebook:
-      enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      enabled: false
+      url: 'https://facebook.com/'
     instagram:
-      enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      enabled: false
+      url: 'https://instagram.com/'
     twitter:
-      enabled: true
-      url: '@nusserstudios'
+      enabled: false
+      url: '@twitter'
     
 
 menu:
   main:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: services
+      name: 🖥️ My Services
+      url: /services/
       weight: 10
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: posts
+      name: 📰 Posts
+      url: /posts/
       weight: 20
-    - identifier: categories
-      pre: dropdown
-      name: Categories
+    - identifier: donate
+      name: ❤️ Donate
+      url: /donate/
       weight: 30
-    - identifier: dropdown
-      pre: complexdropdown
-      name: Dropdown
+    - identifier: status
+      name: 📊 Status
+      url: https://status.r4fo.com
       weight: 40
     - identifier: contact
-      name: Contact
+      name: 📬 Contact
       url: /contact/
       weight: 50
   categories:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: privacypolicy
+      name: 🔒 Privacy Policy
+      url: /privacypolicy/
       weight: 10
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: termsofservice
+      name: 👮‍♂️ Terms Of Service
+      url: /termsofservice/
       weight: 20
-  dropdown:
-    - identifier: appearance
-      pre: stars # can be stars, comments or piechart
-      name: Appearance
-      post: "Easy customization"
-      url: "#"
-      weight: 10
-    - identifier: comments
-      pre: comments # can be stars, comments or piechart
-      name: Comments
-      post: "Check your latest comments"
-      url: "#"
-      weight: 20
-    - identifier: analytics
-      pre: piechart # can be stars, comments or piechart
-      name: Analytics
-      post: "Take a look at your statistics"
-      url: "#"
+    - identifier: takedown
+      name: 🚫 Takedown
+      url: /takedown/
       weight: 30
   footer:
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: privacypolicy
+      name: Privacy Policy
+      url: /privacypolicy/
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /categories/blog/
+    - identifier: termsofservice
+      name: Terms Of Service
+      url: /termsofservice/
       weight: 20
-    - identifier: news
-      name: News
-      url: /categories/news/
+    - identifier: takedown
+      name: (DMCA) Takedown
+      url: /takedown/
       weight: 30
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 40
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 50
 
 markup:
   goldmark:
@@ -193,25 +142,25 @@ taxonomies:
 
 privacy:
   disqus:
-    disable: false
+    disable: true
   googleAnalytics:
     anonymizeIP: true
-    disable: false
-    respectDoNotTrack: false
+    disable: true
+    respectDoNotTrack: true
     useSessionStorage: false
   instagram:
-    disable: false
+    disable: true
     simple: false
   twitter:
-    disable: false
-    enableDNT: false
+    disable: true
+    enableDNT: true
     simple: false
   vimeo:
-    disable: false
-    enableDNT: false
+    disable: true
+    enableDNT: true
     simple: false
   youtube:
-    disable: false
+    disable: true
     privacyEnhanced: true
 
 module:
