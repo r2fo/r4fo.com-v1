@@ -15,7 +15,7 @@ description: Donate
 <p class="mb-8 font-light text-center text-white-500 lg:mb-16 dark:text-white-400 sm:text-xl">You can support me in many ways, even <strong>without</strong> spending money. <br> Many methods are listed below</p>
 
 ## Donate Fiat:
-<a href="https://ko-fi.com/r4focom"><img alt="Donate using Ko-Fi " src="/images/kofi.webp"></a>
+<a href="https://ko-fi.com/r4focom"><img alt="Donate using Ko-Fi " src="/images/kofi.png" width=50%></a>
 <a href="https://liberapay.com/r4fo.com/donate"><img alt="Donate using Liberapay " src="/images/liberapay.svg"></a>
 
 <hr>

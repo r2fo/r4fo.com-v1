@@ -4,7 +4,6 @@ date: 2023-11-1T0:0:0+1:00
 draft: false
 language: en
 description: Privacy Policy
-featured_image: ../assets/images/featured/privacypolicy.png
 ---
 
 ### Last updated: 3 December 2023 @ 18:06 CET

@@ -30,6 +30,12 @@ a { text-decoration: none; }
   <a target="_blank" href="https://overflow.r4fo.com"><img src="/images/overflow.png" /></a>
   <a target="_blank" href="https://libreddit.r4fo.com"><img src="/images/libreddit.png" /></a>
   <a target="_blank" href="https://gothub.r4fo.com"><img src="/images/gothub.png" /></a>
+  <a target="_blank" href="https://safetwitch.r4fo.com"><img src="/images/safetwitch.png" /></a>
+  <a target="_blank" href="https://libremdb.r4fo.com"><img src="/images/libremdb.png" /></a>
+  <a target="_blank" href="https://quetre.r4fo.com"><img src="/images/quetre.png" /></a>
+  <a target="_blank" href="https://scribe.r4fo.com"><img src="/images/scribe.png" /></a>
+  <a target="_blank" href="https://rimgo.r4fo.com"><img src="/images/rimgo.png" /></a>
+  <a target="_blank" href="https://breezewiki.r4fo.com"><img src="/images/breezewiki.png" /></a>
   <a target="_blank" href="https://metrics.torproject.org/rs.html#details/6C336E553CC7E0416EBC8577A7289349B757F6C3"><img src="/images/tor.webp" /></a>
 </div>
 
@@ -60,6 +66,24 @@ a { text-decoration: none; }
 # [💻 GotHub](https://gothub.r4fo.com)  
 - 💻 GitHub Frontend
 - 🛡️ Everything Proxied
+# [🕹️ SafeTwitch](https://safetwitch.r4fo.com)  
+- 🕹️ Twitch Frontend
+- 🛡️ Everything Proxied
+# [🍿 LibremDB](https://libremdb.r4fo.com)  
+- 🍿 IMDb Frontend
+- 🛡️ Everything Proxied
+# [💬 Quetre](https://quetre.r4fo.com)  
+- 💬 Quora Frontend
+- 🛡️ Everything Proxied
+# 🚧 Coming Soon: [📚 Scribed](https://scribed.r4fo.com)  
+- 📚 Medium Frontend
+- 🛡️ Everything Proxied
+# [🏞️ Rimgo](https://rimgo.r4fo.com)  
+- 🏞️ Imgur Frontend
+- 🛡️ Everything Proxied
+# [📒 BreezeWiki](https://breezewiki.r4fo.com)  
+- 📒 Fandom Frontend
+- 🛡️ Mostly Proxied (Images and CSS are not proxied)
 # [🧅 Tor Relay 1](https://metrics.torproject.org/rs.html#details/6C336E553CC7E0416EBC8577A7289349B757F6C3)  
 - ⚡️ Middle/Guard Relay
 - 🛜 300 mbits/s - 400 mbits/s burst
