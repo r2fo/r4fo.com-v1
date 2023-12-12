@@ -75,7 +75,7 @@ a { text-decoration: none; }
 # [💬 Quetre](https://quetre.r4fo.com)  
 - 💬 Quora Frontend
 - 🛡️ Everything Proxied
-# 🚧 Coming Soon: [📚 Scribed](https://scribed.r4fo.com)  
+# [📚 Scribe](https://scribe.r4fo.com)  
 - 📚 Medium Frontend
 - 🛡️ Everything Proxied
 # [🏞️ Rimgo](https://rimgo.r4fo.com)  

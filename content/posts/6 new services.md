@@ -16,10 +16,12 @@ Today, I have added a few new private frontends to R4fo.com. These include:
 - [Safetwitch](https://safetwitch.r4fo.com) (Twitch)
 - [LibremDB](https://libremdb.r4fo.com) (IMDb)
 - [Quetre](https://quetre.r4fo.com) (Quora)
-- 🚧 Work in progress ~~[Scribe](https://scribe.r4fo.com) (Medium)~~
+- [Scribe](https://scribe.r4fo.com) (Medium)
 - [Rimgo](https://rimgo.r4fo.com) (Imgur)
 - [*Breezewiki](https://breezewiki.r4fo.com) (Fandom)
 
 These are even more services that you can use privately without any 📢 ads, 👁️ tracking or ☝️fingerprinting! <br>
 
 *\*Please note that on the BreezeWiki instance, there are some direct connections to Fandom.com*
+
+12 Dec (18:25): Scribe instance is now also up and running!
