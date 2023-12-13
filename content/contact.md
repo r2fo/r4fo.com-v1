@@ -6,7 +6,7 @@ language: en
 description: Contact
 ---
 
-<p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">Got some feedback? Or something else you want me to know? <br> You can contact me through one of these options</p>
+<p class="mb-8 font-light text-center text-white-500 lg:mb-16 dark:text-white-400 sm:text-xl">Got some feedback? Or something else you want me to know? <br> You can contact me through one of these options</p>
 
 <h1 style="font-size: 55px; margin: 0px">📧</h1>
 <ul>

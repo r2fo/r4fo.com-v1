@@ -12,7 +12,7 @@ categories: News
 tags: News
 ---
 
-Today, I have added a few new private frontends to R4fo.com. These include:
+Today, I have added a few new private frontends to r4fo.com. These include:
 - [Safetwitch](https://safetwitch.r4fo.com) (Twitch)
 - [LibremDB](https://libremdb.r4fo.com) (IMDb)
 - [Quetre](https://quetre.r4fo.com) (Quora)
@@ -24,4 +24,4 @@ These are even more services that you can use privately without any ðŸ“¢ ads, ðŸ
 
 *\*Please note that on the BreezeWiki instance, there are some direct connections to Fandom.com*
 
-12 Dec (18:25): Scribe instance is now also up and running!
+Edit [12 Dec 2023 - 18:25)]: Scribe instance is now also up and running!

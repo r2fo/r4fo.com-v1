@@ -26,9 +26,13 @@ description: Donate
 <img src="/images/icons/ethereum.svg" alt="Ethereum" width="50"/> 0xba7d57cafc42f800b1f0ba6c9bf976422804cbed <br>
 <img src="/images/icons/litecoin.svg" alt="Litecoin" width="50"/> ltc1qcl8ctr90vnku5qehfjznny7mls40tygzcyfuw9 <br>
 
+<hr>
+
 ## Donate Gift Cards:
 If you want, you can buy me a gift card and send the code to me at admin@r4fo.com. <br>
 VPN: <a href="https://mullvad.net/help/partnerships-and-resellers/">Mullvad VPN Gift Cards</a>
+
+<hr>
 
 ## Referrals codes: {#vouchers}
 You get a big discount and you support me at the same time
