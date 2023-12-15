@@ -78,7 +78,7 @@ a { text-decoration: none; }
 # [📚 Scribe](https://scribe.r4fo.com) - [[tor]](http://scribe.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 📚 Medium Frontend
 - 🛡️ Everything Proxied
-# [🏞️ Rimgo](https://rimgo.r4fo.com) - [[tor]](http://scribe.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
+# [🏞️ Rimgo](https://rimgo.r4fo.com) - [[tor]](http://rimgo.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 🏞️ Imgur Frontend
 - 🛡️ Everything Proxied
 # [📒 BreezeWiki](https://breezewiki.r4fo.com) - [[tor]](http://breezewiki.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
