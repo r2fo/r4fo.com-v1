@@ -3,7 +3,7 @@ title: "Disabling ☁️Cloudflare for most services"
 date: 2023-12-13T19:51:36+02:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/orangecloud.png
+featured_image: ../assets/images/featured/orangecloud.webp
 summary: r4fo.com's infrastructure has outgrown the need for a third party MITM
 description: r4fo.com's infrastructure has outgrown the need for a third party MITM
 author: Admin
