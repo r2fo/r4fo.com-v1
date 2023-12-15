@@ -51,7 +51,7 @@ a { text-decoration: none; }
 # [📺 Piped](https://piped.r4fo.com)  
 - 📺 YouTube Frontend
 - 🛡️ Everything Proxied
-# [📱 Proxitok](https://proxitok.r4fo.com)  
+# [📱 ProxiTok](https://proxitok.r4fo.com)  
 - 📱 TikTok Frontend
 - 🛡️ Everything Proxied
 # [📖 Wikiless](https://wikiless.r4fo.com)  

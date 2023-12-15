@@ -24,4 +24,4 @@ These are even more services that you can use privately without any ðŸ“¢ ads, ðŸ
 
 *\*Please note that on the BreezeWiki instance, there are some direct connections to Fandom.com*
 
-Edit [12 Dec 2023 - 18:25)]: Scribe instance is now also up and running!
+Edit [12 Dec 2023 - 18:25]: Scribe instance is now also up and running!
