@@ -45,43 +45,43 @@ a { text-decoration: none; }
 #### *(⬇️ If you like a list of text instead)*
 <br>
 
-# [🔍 SearXNG](https://search.r4fo.com)
+# [🔍 SearXNG](https://search.r4fo.com) - [[tor]](http://search.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 🔍 Search Engine
 - 🛡️ Everything Proxied
-# [📺 Piped](https://piped.r4fo.com)  
+# [📺 Piped](https://piped.r4fo.com)   - [[tor]](http://piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 📺 YouTube Frontend
 - 🛡️ Everything Proxied
-# [📱 ProxiTok](https://proxitok.r4fo.com)  
+# [📱 ProxiTok](https://proxitok.r4fo.com) - [[tor]](http://proxitok.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 📱 TikTok Frontend
 - 🛡️ Everything Proxied
-# [📖 Wikiless](https://wikiless.r4fo.com)  
+# [📖 Wikiless](https://wikiless.r4fo.com) - [[tor]](http://wikiless.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 📖 Wikipedia Frontend
 - 🛡️ Everything Proxied
-# [👨‍💻 AnonymousOverflow](https://overflow.r4fo.com)  
+# [👨‍💻 AnonymousOverflow](https://overflow.r4fo.com) - [[tor]](http://overflow.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 👨‍💻 StackOverflow Frontend
 - 🛡️ Everything Proxied
-# [👾 Libreddit](https://libreddit.r4fo.com)  
+# [👾 Libreddit](https://libreddit.r4fo.com) - [[tor]](http://libreddit.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 👾 Reddit Frontend
 - 🛡️ Everything Proxied
-# [💻 GotHub](https://gothub.r4fo.com)  
+# [💻 GotHub](https://gothub.r4fo.com) - [[tor]](http://gothub.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 💻 GitHub Frontend
 - 🛡️ Everything Proxied
-# [🕹️ SafeTwitch](https://safetwitch.r4fo.com)  
+# [🕹️ SafeTwitch](https://safetwitch.r4fo.com) - [[tor]](http://safetwitch.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 🕹️ Twitch Frontend
 - 🛡️ Everything Proxied
-# [🍿 LibremDB](https://libremdb.r4fo.com)  
+# [🍿 LibremDB](https://libremdb.r4fo.com) - [[tor]](http://libremdb.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 🍿 IMDb Frontend
 - 🛡️ Everything Proxied
-# [💬 Quetre](https://quetre.r4fo.com)  
+# [💬 Quetre](https://quetre.r4fo.com)
 - 💬 Quora Frontend
 - 🛡️ Everything Proxied
-# [📚 Scribe](https://scribe.r4fo.com)  
+# [📚 Scribe](https://scribe.r4fo.com) - [[tor]](http://scribe.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 📚 Medium Frontend
 - 🛡️ Everything Proxied
-# [🏞️ Rimgo](https://rimgo.r4fo.com)  
+# [🏞️ Rimgo](https://rimgo.r4fo.com) - [[tor]](http://scribe.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 🏞️ Imgur Frontend
 - 🛡️ Everything Proxied
-# [📒 BreezeWiki](https://breezewiki.r4fo.com)  
+# [📒 BreezeWiki](https://breezewiki.r4fo.com) - [[tor]](http://breezewiki.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 📒 Fandom Frontend
 - 🛡️ Mostly Proxied (Images and CSS are not proxied)
 # [🧅 Tor Relay 1](https://metrics.torproject.org/rs.html#details/6C336E553CC7E0416EBC8577A7289349B757F6C3)  
