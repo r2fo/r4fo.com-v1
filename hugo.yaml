@@ -51,7 +51,7 @@ params:
   og_image: /images/tailbliss-cover.png
   moto: "Privacy Services"
   description: "Use all the popular platforms without exposure to 📢 ads, 👁️ tracking or ☝️fingerprinting."
-  disable_theme_toggle: false
+  disable_theme_toggle: true
   disable_stay_uptodate: true
 
   p4:
