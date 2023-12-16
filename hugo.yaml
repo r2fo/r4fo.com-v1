@@ -69,8 +69,8 @@ params:
 
   social_media:
     github:
-      enabled: false
-      url: 'https://github.com/'
+      enabled: true
+      url: 'https://github.com/r2fo/r4fo.com'
     facebook:
       enabled: false
       url: 'https://facebook.com/'
@@ -119,15 +119,15 @@ menu:
       weight: 30
   footer:
     - identifier: privacypolicy
-      name: Privacy Policy
+      name: Privacy
       url: /privacypolicy/
       weight: 10
     - identifier: termsofservice
-      name: Terms Of Service
+      name: Terms
       url: /termsofservice/
       weight: 20
     - identifier: takedown
-      name: (DMCA) Takedown
+      name: Takedown
       url: /takedown/
       weight: 30
 
