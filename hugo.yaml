@@ -7,8 +7,8 @@ enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
 paginate: 9
-darkmode_js:
-  - assets/js/darkmode.js
+#darkmode_js:
+#  - assets/js/darkmode.js
 enableInlineShortcodes: true
 
 markup:
@@ -51,7 +51,7 @@ params:
   og_image: /images/tailbliss-cover.png
   moto: "Privacy Services"
   description: "Use all the popular platforms without exposure to 📢 ads, 👁️ tracking or ☝️fingerprinting."
-  disable_theme_toggle: false
+  disable_theme_toggle: true
   disable_stay_uptodate: true
 
   p4:
@@ -85,7 +85,7 @@ params:
 menu:
   main:
     - identifier: services
-      name: 🖥️ My Services
+      name: 🖥️ Services
       url: /services/
       weight: 10
     - identifier: posts

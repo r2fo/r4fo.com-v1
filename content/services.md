@@ -72,7 +72,7 @@ a { text-decoration: none; }
 # [🍿 LibremDB](https://libremdb.r4fo.com) - [[tor]](http://libremdb.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 🍿 IMDb Frontend
 - 🛡️ Everything Proxied
-# [💬 Quetre](https://quetre.r4fo.com)
+# [💬 Quetre](https://quetre.r4fo.com) - [[tor]](http://quetre.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 💬 Quora Frontend
 - 🛡️ Everything Proxied
 # [📚 Scribe](https://scribe.r4fo.com) - [[tor]](http://scribe.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)

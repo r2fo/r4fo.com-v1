@@ -20,10 +20,7 @@ And to top it all off, I am now also running a [Tor](https://wikiless.r4fo.com/w
 
 *All services will be available through the Tor hidden service aswell! When you visit ```*.r4fo.com``` through Tor Browser, it will automatically redirect you to ```*.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion``` (sometimes it will ask you if you want to be redirected, just click yes)
 
-### Notes
-Quetre currently does not work over onion because it is dependant on a HTTPS connection. I will acquire a TLS cert for it when I have time. <br>
-Please note that in general, TLS certs are redundant for onion domains since everything is already E2E encrypted
-
 <br>
 
 *Edit [15 Dec 2023 - 20:58]: Wikiless, Libremdb and BreezeWiki now also work over onion!*
+*Edit [18 Dec 2023 - 21:08]: Quetre now also works over onion!*
