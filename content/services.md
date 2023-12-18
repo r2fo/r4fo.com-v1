@@ -1,5 +1,5 @@
 ---
-title: "🖥️ My Services"
+title: "🖥️ Services"
 date: 1970-1-1T0:0:0+0:00
 draft: false
 language: en
