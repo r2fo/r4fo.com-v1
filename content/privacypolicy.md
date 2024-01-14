@@ -6,7 +6,7 @@ language: en
 description: Privacy Policy
 ---
 
-### Last updated: 16 December 2023 @ 14:54 CET
+### Last updated: 14 January 2024 @ 19:01 CET
 View the [changelog](#changelog) at the bottom of this page or on [GitHub](https://github.com/r2fo/r4fo.com/commits/main/content/privacypolicy.md)
 
 You may contact me at <a href="mailto:privacy@r4fo.com">privacy@r4fo.com</a> if you have any questions regarding this privacy policy
@@ -56,7 +56,8 @@ You may contact me at <a href="mailto:privacy@r4fo.com">privacy@r4fo.com</a> if 
 <br>
 
 ## Changelog {#changelog}
-[16 Dec 2023] improved wording
+[14 Jan 2024] fixed indentation <br>
+[16 Dec 2023] improved wording <br>
 [15 Dec 2023] r4fo.com is now selfhosted, no more Cloudflare Pages <br>
 [13 Dec 2023] Cloudflare Proxy is now disabled by default <br>
 [3 Dec 2023] r4fo.com is now being hosted by Cloudflare Pages, previously by GitHub Pages <br>

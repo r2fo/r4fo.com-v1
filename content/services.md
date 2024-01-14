@@ -6,7 +6,9 @@ language: en
 description: Services
 ---
 
-#### *(👇Click the image to visit the service)*
+## Please consider [❤️ donating](https://r4fo.com/donate), 🙏 I appreciate any amount
+## 😔 Without donations I will not be able to continue running these services
+## Unlike YouTube, TikTok, Reddit, Amazon, ... I 🤝 respect your privacy and do not show you ads
 
 <style>
   .grid {
@@ -38,12 +40,7 @@ a { text-decoration: none; }
   <a target="_blank" href="https://breezewiki.r4fo.com"><img src="/images/breezewiki.png" /></a>
   <a target="_blank" href="https://metrics.torproject.org/rs.html#details/6C336E553CC7E0416EBC8577A7289349B757F6C3"><img src="/images/tor.webp" /></a>
 </div>
-
-#### *Yes, I made the images myself. Feel free to steal them, but please credit me*
 <hr>
-
-#### *(⬇️ If you like a list of text instead)*
-<br>
 
 # [🔍 SearXNG](https://search.r4fo.com) - [[tor]](http://search.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 🔍 Search Engine
@@ -78,9 +75,10 @@ a { text-decoration: none; }
 # [📚 Scribe](https://scribe.r4fo.com) - [[tor]](http://scribe.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 📚 Medium Frontend
 - 🛡️ Everything Proxied
-# [🏞️ Rimgo](https://rimgo.r4fo.com) - [[tor]](http://rimgo.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
-- 🏞️ Imgur Frontend
-- 🛡️ Everything Proxied
+# 🚧 ~~[🏞️ Rimgo](https://rimgo.r4fo.com) - [[tor]](http://rimgo.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)~~
+- Temporarily shutdown due to rate limits by Imgur, will return in a few days/week
+- ~~🏞️ Imgur Frontend~~
+- ~~🛡️ Everything Proxied~~
 # [📒 BreezeWiki](https://breezewiki.r4fo.com) - [[tor]](http://breezewiki.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 📒 Fandom Frontend
 - 🛡️ Mostly Proxied (Images and CSS are not proxied)

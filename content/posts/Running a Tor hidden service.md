@@ -22,5 +22,5 @@ And to top it all off, I am now also running a [Tor](https://wikiless.r4fo.com/w
 
 <br>
 
-*Edit [15 Dec 2023 - 20:58]: Wikiless, Libremdb and BreezeWiki now also work over onion!*
+*Edit [15 Dec 2023 - 20:58]: Wikiless, Libremdb and BreezeWiki now also work over onion!* <br>
 *Edit [18 Dec 2023 - 21:08]: Quetre now also works over onion!*
