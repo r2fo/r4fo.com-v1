@@ -7,11 +7,7 @@
   <p align="center">
     <a href="https://tailbliss.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/nusserstudios/tailbliss/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/nusserstudios/tailbliss/discussions/categories/feature-request">Request Feature</a>
-    ·
-    <a href="https://github.com/nusserstudios/tailbliss/discussions/categories/general">Ask Question</a>
+    <a href="https://github.com/nusserstudios/tailbliss/">View Repo</a>
   </p>
 </p>
 
