@@ -16,10 +16,10 @@
 </p>
 
 ## Consider donating to me, to support R4fo.com
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0RIUXU)
-Monero: 89dEuYmDRW3RmpeYRe7SkeSUDz81mKpR58peNTyHWuqWL7C8K4j6KPNDry9UCJP9z8K8mSTbEyENHGw6WPRY9V7TNW365Vb
-Bitcoin: bc1q0v4kawv2krcvfkjm3waznnffymr0qv47fp9cs9
-Ethereum: 0xba7d57cafc42f800b1f0ba6c9bf976422804cbed
-Litecoin: ltc1qcl8ctr90vnku5qehfjznny7mls40tygzcyfuw9
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0RIUXU) <br>
+Monero: 89dEuYmDRW3RmpeYRe7SkeSUDz81mKpR58peNTyHWuqWL7C8K4j6KPNDry9UCJP9z8K8mSTbEyENHGw6WPRY9V7TNW365Vb <br>
+Bitcoin: bc1q0v4kawv2krcvfkjm3waznnffymr0qv47fp9cs9 <br>
+Ethereum: 0xba7d57cafc42f800b1f0ba6c9bf976422804cbed <br>
+Litecoin: ltc1qcl8ctr90vnku5qehfjznny7mls40tygzcyfuw9 <br>
 
 More options are available at: https://r4fo.com/donate/
