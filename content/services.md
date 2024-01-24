@@ -6,9 +6,7 @@ language: en
 description: Services
 ---
 
-## Please consider [❤️ donating](https://r4fo.com/donate), 🙏 I appreciate any amount
-## 😔 Without donations I will not be able to continue running these services
-## Unlike YouTube, TikTok, Reddit, Amazon, ... I 🤝 respect your privacy and do not show you ads
+### Please consider [❤️ donating](https://r4fo.com/donate) if you find my services useful
 
 <style>
   .grid {
