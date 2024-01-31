@@ -28,7 +28,7 @@ a { text-decoration: none; }
   <a target="_blank" href="https://proxitok.r4fo.com"><img src="/images/proxitok.png" /></a>
   <a target="_blank" href="https://wikiless.r4fo.com"><img src="/images/wikiless.webp" /></a>
   <a target="_blank" href="https://overflow.r4fo.com"><img src="/images/overflow.png" /></a>
-  <a target="_blank" href="https://libreddit.r4fo.com"><img src="/images/libreddit.png" /></a>
+  <a target="_blank" href="https://redlib.r4fo.com"><img src="/images/redlib.png" /></a>
   <a target="_blank" href="https://gothub.r4fo.com"><img src="/images/gothub.png" /></a>
   <a target="_blank" href="https://safetwitch.r4fo.com"><img src="/images/safetwitch.png" /></a>
   <a target="_blank" href="https://libremdb.r4fo.com"><img src="/images/libremdb.png" /></a>
@@ -55,7 +55,7 @@ a { text-decoration: none; }
 # [👨‍💻 AnonymousOverflow](https://overflow.r4fo.com) - [[tor]](http://overflow.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 👨‍💻 StackOverflow Frontend
 - 🛡️ Everything Proxied
-# [👾 Libreddit](https://libreddit.r4fo.com) - [[tor]](http://libreddit.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
+# [👾 RedLib ~~LibReddit~~](https://redlib.r4fo.com) - [[tor]](http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 👾 Reddit Frontend
 - 🛡️ Everything Proxied
 # [💻 GotHub](https://gothub.r4fo.com) - [[tor]](http://gothub.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
