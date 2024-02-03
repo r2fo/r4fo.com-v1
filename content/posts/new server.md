@@ -1,5 +1,5 @@
 ---
-title: "Adding another server!"
+title: "Reflecting on the journey + new server"
 date: 2024-02-03T22:12:36+02:00
 draft: false
 language: en
