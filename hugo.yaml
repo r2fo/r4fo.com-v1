@@ -100,10 +100,6 @@ menu:
       name: 📊 Status
       url: https://status.r4fo.com
       weight: 40
-    - identifier: contact
-      name: 📬 Contact
-      url: /contact/
-      weight: 50
   categories:
     - identifier: privacypolicy
       name: 🔒 Privacy Policy
@@ -126,9 +122,9 @@ menu:
       name: Terms
       url: /termsofservice/
       weight: 20
-    - identifier: takedown
-      name: Takedown
-      url: /takedown/
+    - identifier: contact
+      name: Contact
+      url: /contact/
       weight: 30
 
 markup:

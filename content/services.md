@@ -6,7 +6,7 @@ language: en
 description: Services
 ---
 
-### Please consider [❤️ donating](https://r4fo.com/donate) if you find my services useful
+### 100% of [❤️ donations](https://r4fo.com/donate) go to improving these services for everyone
 
 <style>
   .grid {
