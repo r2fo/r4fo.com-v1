@@ -6,7 +6,7 @@ language: en
 description: Services
 ---
 
-### 100% of [❤️ donations](https://r4fo.com/donate) go to improving these services for everyone
+### Consider supporting me with server costs. Any [❤️ donation](https://r4fo.com/donate) is appreciated
 
 <style>
   .grid {
@@ -28,14 +28,14 @@ a { text-decoration: none; }
   <a target="_blank" href="https://proxitok.r4fo.com"><img src="/images/proxitok.png" /></a>
   <a target="_blank" href="https://wikiless.r4fo.com"><img src="/images/wikiless.webp" /></a>
   <a target="_blank" href="https://overflow.r4fo.com"><img src="/images/overflow.png" /></a>
-  <a target="_blank" href="https://redlib.r4fo.com"><img src="/images/redlib.png" /></a>
+  <a target="_blank" href="https://redlib.r4fo.com"><img src="/images/redlib.webp" /></a>
   <a target="_blank" href="https://gothub.r4fo.com"><img src="/images/gothub.png" /></a>
   <a target="_blank" href="https://safetwitch.r4fo.com"><img src="/images/safetwitch.png" /></a>
   <a target="_blank" href="https://libremdb.r4fo.com"><img src="/images/libremdb.png" /></a>
   <a target="_blank" href="https://quetre.r4fo.com"><img src="/images/quetre.png" /></a>
   <a target="_blank" href="https://scribe.r4fo.com"><img src="/images/scribe.png" /></a>
-  <a target="_blank" href="https://rimgo.r4fo.com"><img src="/images/rimgo.png" /></a>
   <a target="_blank" href="https://breezewiki.r4fo.com"><img src="/images/breezewiki.png" /></a>
+  <a target="_blank" href="https://nitter.r4fo.com"><img src="/images/nitter.webp" /></a>
   <a target="_blank" href="https://metrics.torproject.org/rs.html#details/6C336E553CC7E0416EBC8577A7289349B757F6C3"><img src="/images/tor.webp" /></a>
 </div>
 <hr>
@@ -73,13 +73,12 @@ a { text-decoration: none; }
 # [📚 Scribe](https://scribe.r4fo.com) - [[tor]](http://scribe.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 📚 Medium Frontend
 - 🛡️ Everything Proxied
-# 🚧 ~~[🏞️ Rimgo](https://rimgo.r4fo.com) - [[tor]](http://rimgo.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)~~
-- Temporarily shutdown due to rate limits by Imgur, will return in a few days/week
-- ~~🏞️ Imgur Frontend~~
-- ~~🛡️ Everything Proxied~~
 # [📒 BreezeWiki](https://breezewiki.r4fo.com) - [[tor]](http://breezewiki.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 📒 Fandom Frontend
-- 🛡️ Mostly Proxied (Images and CSS are not proxied)
+- 🛡️ Mostly Proxied (Images are not proxied)
+# [🐦 Nitter](https://nitter.r4fo.com) - [[tor]](http://nitter.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
+- 🐦 Twitter Frontend
+- 🛡️ Everything Proxied
 # [🧅 Tor Relay 1](https://metrics.torproject.org/rs.html#details/6C336E553CC7E0416EBC8577A7289349B757F6C3)  
 - ⚡️ Middle/Guard Relay
 - 🛜 300 mbits/s - 400 mbits/s burst

@@ -16,9 +16,7 @@ It's been a while since my last post, and quite a few things have changed. I fee
 
 ### Throwback
 But before I go any further, let's take a moment to reflect on the journey. <br>
-I was trying to become more private online. That includes getting rid of data hungry services by Google, Meta, Microsoft, ... It proved to be hard because I was very dependant on those, but luckily I learned about private frontends and Piped.
-
-Unfortunately I found most Piped instances to be very unstable. One day they would work fine, the next day they were buffering forever. Luckily I had a domain laying around and a free server from Oracle. And that's how I started this selfhosting journey, as rafo.tech, back in Oktober 2023.
+I found most Piped instances to be very unstable. One day they would work fine, the next day they were buffering forever. Luckily I had a domain laying around and a free server from Oracle. And that's how I started this selfhosting journey, as rafo.tech, back in Oktober 2023.
 
 In the first weeks, the average bandwidth usage was hovering around 200 gigabytes a day, at most. And that already felt like a lot to me. Within a month, I ran out of bandwidth on the free Oracle server, prompting me to go find another provider (more on that [here](https://r4fo.com/posts/netcup-server-migration/)).
 
@@ -65,20 +63,23 @@ These are the bandwidth statistics of the last month:
       estimated     1.70 TiB |    1.69 TiB |    3.39 TiB |
 ```
 
-### Reverse Proxy
+### 🔁 Reverse Proxy
 Even though all of this is 100% legal, I've heard many stories of fellow privacy hosters whose servers got terminated, all because some ignorant person thought their content was stolen. <br>
 I've decided to not take chances anymore. I got a server from a provider called [IncogNET](https://incognet.io/), they know how to deal with such unique problems. <br>
 From now on, all the problematic services will be proxied by my IncogNET server.
 
-### Libreddit
+### 👾 Libreddit
 But big changes aside, I recently found out that Libreddit (the Reddit private frontend), which was dead for a few months, has been forked into a new project called [RedLib](https://gothub.r4fo.com/redlib-org/redlib). So of course I replaced the old Libreddit instance with RedLib.
 
 What does this mean for you? Well, not only does RedLib support more of the newer features that Reddit added over the last months. It also has some fixes to the API ratelimiting problem that Reddit themselves introduced to counter privacy.
 
-### Nitter
+### 🐦 Nitter
 Speaking of such ratelimits, the [Nitter](https://gothub.r4fo.com/zedeus/nitter) project is now dead after Twitter discontinued guest accounts, that Nitter was using to scrape Twitter. That news comes at a bad time because I was planning on running a Nitter instance, now that I've got a shiny reverse proxy. Hopefully this gets resolved.
+<br>
 
-### Final notes
+Edit (29/2/2024): I was able to create a working Nitter instance!
+
+### 📝 Final notes
 This post has become too long, so again I want to thank everyone for their support. R4fo.com is slowly getting better with the day thanks to you. Feel free to send me feedback or suggestions through [this page](https://r4fo.com/contact/).
 
 If you want, you can ❤️ support me [here](https://r4fo.com/donate/). 🙏 I really appreciate any contribution! 

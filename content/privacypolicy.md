@@ -6,7 +6,7 @@ language: en
 description: Privacy Policy
 ---
 
-### Last updated: February 7th 2024 @ 19:48
+### Last updated: February 29th 2024
 View the [changelog](#changelog) at the bottom of this page or on [GitHub](https://github.com/r2fo/r4fo.com/commits/main/content/privacypolicy.md)
 
 <p class="mb-8 font-light text-white-500 dark:text-white-400 sm:text-xl">
@@ -32,7 +32,7 @@ View the [changelog](#changelog) at the bottom of this page or on [GitHub](https
     - channel subscriptions
 - 🔄 Cloudflare Proxy is **✅ ENABLED**
 
-### ProxiTok, RedLib, SafeTwitch and Rimgo
+### ProxiTok, RedLib, SafeTwitch and Nitter
 - 🔄 Cloudflare Proxy is **✅ ENABLED**
 
 <br>
@@ -51,6 +51,7 @@ You may contact me at privacy@r4fo.com if you have any questions regarding this 
 <hr>
 
 ## Changelog {#changelog}
+[29 Feb 2024] added Nitter <br>
 [7 Feb 2024] simplified privacy policy <br>
 [14 Jan 2024] fixed indentation <br>
 [16 Dec 2023] improved wording <br>
