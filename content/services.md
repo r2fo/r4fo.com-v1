@@ -6,7 +6,16 @@ language: en
 description: Services
 ---
 
-### Consider supporting me with server costs. Any [❤️ donation](https://r4fo.com/donate) is appreciated
+## 
+
+<details open>
+    <summary>I'm sorry for this annoying message, but recently I’ve noticed a decline in support.</summary>
+    <ul>
+        <h3>As a volunteer-run service, your support is crucial to keep up with server costs. <br></h3>
+        <h3>If you find value in these services, please consider <a href="https://r4fo.com/donate">❤️contributing</a>. Your generosity makes a significant difference.<br></h3>
+        <h3>🙏 Thank you for your time</h3>
+    </ul>
+</details>
 
 <style>
   .grid {

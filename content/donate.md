@@ -6,17 +6,29 @@ language: en
 description: Donate
 ---
 
-<div style="width: 1000px; height: 500px;">
-    <img src="/images/donate.png" width="50%" height="50%">
-</div>
+## Why do you need donations?
+Unlike 99% of the internet, r4fo.com does **not** make money by showing you ads or by tracking you. I value your privacy and am happy to say that I don't even keep traffic logs.<br>
+Every day my servers proxy [over 4 terabytes of data](https://r4fo.com/bandwidth.txt), ensuring that you stay **private**.
 
-> Hosting these services costs money, and lots of my spare time 🕰️<br>
-> Thank you for taking the time to visit this page <br>
-> You can supporting me with a donation or by using my <a href="https://r4fo.com/donate#vouchers">referral codes</a> <br>
->
-> 🙏 I appreciate any support, and will use it exclusively to improve these services for everyone
+R4fo.com is a volunteer-run service, which relies solely on donations.
+
+
+## What do you do with donations?
+All proceeds will be used to pay for the infrastructure costs. The rest will be kept for the upcoming months.
+Here is an overview of my monthly expenses:
+
+|Total:|~€14,42 / month|   |
+|---|---|---|
+|Domain|€9 / year||
+|Oracle server|€0|general hosting|
+|Netcup server|€30 / quarter|video streaming|
+|Incognet server|€11 / quarter|reverse proxy|
+
+<hr>
 
 ## Donate Fiat:
+You can donate using PayPal, debit/credit card, Apple Pay, ... <br>
+For one time donations, choose Ko-Fi
 [![Donate using Ko-Fi](/images/kofi.svg)](https://ko-fi.com/r4focom)
 [![Donate using Liberapay](/images/liberapay.svg)](https://liberapay.com/r4fo.com/donate)
 
@@ -38,7 +50,7 @@ description: Donate
 Redeemable at [https://www.netcup.eu/bestellen/warenkorb.php](https://www.netcup.eu/bestellen/warenkorb.php)
 
 <ul>
-<li><a href="https://netcup.eu/">Netcup.eu</a>: €5 discount on VPS, Webhosting, Domains...: <code>36nc17009396940, 36nc17009396941, 36nc17009396942, 36nc17009396943, 36nc17009396944</code> </li>
+<li><a href="https://netcup.eu/">Netcup.eu</a>: €5 discount on VPS, Webhosting, ...: <code>36nc17009396940, 36nc17009396941, 36nc17009396942, 36nc17009396943, 36nc17009396944</code> </li>
 <br>
 <li><a href="https://netcup.eu/">Netcup.eu</a>: 3 months free rootserver RS 1000: <code>2915nc17009393310, 2915nc17009393311, 2915nc17009393312</code> </li>
 <li><a href="https://netcup.eu/">Netcup.eu</a>: 2 months free rootserver RS 2000: <code>2916nc17009402010, 2916nc17009402011, 2916nc17009402012</code> </li>
