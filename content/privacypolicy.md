@@ -14,14 +14,16 @@ View the [changelog](#changelog) at the bottom of this page or on [GitHub](https
 ### In General
 
 <p class="mb-8 font-light text-white-500 dark:text-white-400 sm:text-xl">
-    I do <strong style="color: red;">not</strong> collect any data<br>
-    I do <strong style="color: red;">not</strong> sell any data<br>
-    I do <strong style="color: red;">not</strong> share any data<br>
-    <br>
-    I do <strong style="color: red;">not</strong> log traffic<br>
-    I do <strong style="color: red;">not</strong> use any type of analytics<br>
-    I do <strong style="color: red;">not</strong> use any type of tracking<br>
-    I do <strong style="color: red;">not</strong> use any type of browser fingerprinting<br>
+    <ul>
+        <li>I do <strong style="color: red;">not</strong> collect any data</li>
+        <li>I do <strong style="color: red;">not</strong> sell any data</li>
+        <li>I do <strong style="color: red;">not</strong> share any data</li>
+        <br>
+        <li>I do <strong style="color: red;">not</strong> log traffic</li>
+        <li>I do <strong style="color: red;">not</strong> use any type of analytics</li>
+        <li>I do <strong style="color: red;">not</strong> use any type of tracking</li>
+        <li>I do <strong style="color: red;">not</strong> use any type of browser fingerprinting</li>
+    </ul>
 </p>
     
 - 🔄 Cloudflare Proxy is **❌ DISABLED** by default, unless otherwise noted below
