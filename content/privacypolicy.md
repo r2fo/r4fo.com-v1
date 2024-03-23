@@ -17,7 +17,6 @@ View the [changelog](#changelog) at the bottom of this page or on [GitHub](https
     I do <strong style="color: red;">not</strong> collect any data<br>
     I do <strong style="color: red;">not</strong> sell any data<br>
     I do <strong style="color: red;">not</strong> share any data<br>
-
     I do <strong style="color: red;">not</strong> log traffic<br>
     I do <strong style="color: red;">not</strong> use any type of analytics<br>
     I do <strong style="color: red;">not</strong> use any type of tracking<br>
