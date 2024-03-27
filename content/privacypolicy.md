@@ -6,30 +6,35 @@ language: en
 description: Privacy Policy
 ---
 
-### Last updated: February 29th 2024
+### Last updated: March 23th 2024
 View the [changelog](#changelog) at the bottom of this page or on [GitHub](https://github.com/r2fo/r4fo.com/commits/main/content/privacypolicy.md)
-
-<p class="mb-8 font-light text-white-500 dark:text-white-400 sm:text-xl">
-    I do <strong style="color: red;">not</strong> collect your personal information<br>
-    I do <strong style="color: red;">not</strong> sell your data<br>
-    I do <strong style="color: red;">not</strong> share your data<br>
-</p>
-<hr>
 
 ## What data do I collect?
 
 ### In General
-- I do **not** keep traffic logs
-- I do **not** use any type of analytics
-- I do **not** use any type of tracking
-- I do **not** use any type of browser fingerprinting
+
+<p class="mb-8 font-light text-white-500 dark:text-white-400 sm:text-xl">
+    <ul>
+        <li>I do <strong style="color: red;">not</strong> collect any data</li>
+        <li>I do <strong style="color: red;">not</strong> sell any data</li>
+        <li>I do <strong style="color: red;">not</strong> share any data</li>
+        <br>
+        <li>I do <strong style="color: red;">not</strong> log traffic</li>
+        <li>I do <strong style="color: red;">not</strong> use any type of analytics</li>
+        <li>I do <strong style="color: red;">not</strong> use any type of tracking</li>
+        <li>I do <strong style="color: red;">not</strong> use any type of browser fingerprinting</li>
+    </ul>
+</p>
+    
 - 🔄 Cloudflare Proxy is **❌ DISABLED** by default, unless otherwise noted below
 
 ### Piped
-- I only collect the following essential data if you have created an account:
+- I only collect the following essential data in case you have created an account. Obviously, these are only used to enable account creation and you can delete your account at any time through Piped's settings menu.
     - username
     - password (<a href="https://wikiless.r4fo.com/wiki/Cryptographic_hash_function#:~:text=A%20common%20use%20of%20hashes,in%20a%20file%20or%20database">hashed</a>)
     - channel subscriptions
+    - playlists
+   
 - 🔄 Cloudflare Proxy is **✅ ENABLED**
 
 ### ProxiTok, RedLib, SafeTwitch and Nitter
@@ -51,6 +56,7 @@ You may contact me at privacy@r4fo.com if you have any questions regarding this 
 <hr>
 
 ## Changelog {#changelog}
+[23 Mar 2024] simplified privacy policy and improved wording <br>
 [29 Feb 2024] added Nitter <br>
 [7 Feb 2024] simplified privacy policy <br>
 [14 Jan 2024] fixed indentation <br>
