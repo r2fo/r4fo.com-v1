@@ -6,16 +6,10 @@ language: en
 description: Services
 ---
 
-## 
-
-<details open>
-    <summary>I'm sorry for this annoying message, but recently I’ve noticed a decline in support.</summary>
-    <ul>
-        <h3>As a volunteer-run service, your support is crucial to keep up with server costs. <br></h3>
-        <h3>If you find value in these services, please consider <a href="https://r4fo.com/donate">❤️contributing</a>. Your generosity makes a significant difference.<br></h3>
-        <h3>🙏 Thank you for your time</h3>
-    </ul>
-</details>
+<h2>Please consider <a href="https://r4fo.com/donate">❤️donating</a><br></h2>
+<h2>For the last 2 months, there were no donations<br></h2>
+<h2>If this continues, R4fo.com will have to shutdown😔<br></h2>
+<h2>Every day I provide privacy to <a href="https://pipedapi.r4fo.com/registered/badge">+1300</a> people<br></h2>
 
 <style>
   .grid {
