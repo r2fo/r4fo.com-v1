@@ -12,6 +12,8 @@
 </p>
 
 ## How to deploy?
+Installing dependencies
+
 ```sudo apt update```
 
 ```sudo apt install npm```
@@ -21,6 +23,8 @@
 ```npm install postcss-cli```
 
 ```npm install tailwindcss```
+
+Deploying with Hugo
 
 ```git clone https://github.com/r2fo/r4fo.com```
 
