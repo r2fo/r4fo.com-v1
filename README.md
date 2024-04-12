@@ -14,25 +14,24 @@
 ## How to deploy?
 Installing dependencies
 
-```sudo apt update```
-
-```sudo apt install npm```
-
-```sudo apt install hugo```
-
-```npm install postcss-cli```
-
-```npm install tailwindcss```
-
+```
+sudo apt update
+sudo apt install npm
+sudo apt install hugo
+npm install postcss-cli
+npm install tailwindcss
+```
 Deploying with Hugo
 
-```git clone https://github.com/r2fo/r4fo.com```
-
-```cd r4fo.com```
-
-```hugo --gc --minify```
+```
+git clone https://github.com/r2fo/r4fo.com
+cd r4fo.com
+hugo --gc --minify
+```
 
 ## Consider supporting R4fo.com
+All of my [privacy services](https://r4fo.com/services) are run voluntarily and provided free of charge to anyone. They are funded by donations.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0RIUXU) <br>
 
 Monero: 89dEuYmDRW3RmpeYRe7SkeSUDz81mKpR58peNTyHWuqWL7C8K4j6KPNDry9UCJP9z8K8mSTbEyENHGw6WPRY9V7TNW365Vb <br>
