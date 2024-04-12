@@ -8,8 +8,7 @@ description: Services
 
 <h2>Please consider <a href="https://r4fo.com/donate">❤️donating</a><br></h2>
 <h2>We are low on funds<br></h2>
-<h2>If this continues, R4fo.com will have to shutdown😔<br></h2>
-<h2>Every day I provide privacy to <a href="https://pipedapi.r4fo.com/registered/badge">+1800</a> people<br></h2>
+<h2>All of my services are ran voluntarily and provided free of charge to anyone<br></h2>
 
 <style>
   .grid {
