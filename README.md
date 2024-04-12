@@ -13,13 +13,19 @@
 
 ## How to deploy?
 ```sudo apt update```
+
 ```sudo apt install npm```
+
 ```sudo apt install hugo```
+
 ```npm install postcss-cli```
+
 ```npm install tailwindcss```
 
 ```git clone https://github.com/r2fo/r4fo.com```
+
 ```cd r4fo.com```
+
 ```hugo --gc --minify```
 
 ## Consider supporting R4fo.com
