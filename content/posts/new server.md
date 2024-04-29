@@ -68,6 +68,8 @@ Even though all of this is 100% legal, I've heard many stories of fellow privacy
 I've decided to not take chances anymore. I got a server from a provider called [IncogNET](https://incognet.io/), they know how to deal with such unique problems. <br>
 From now on, all the problematic services will be proxied by my IncogNET server.
 
+*Edit (29/4/2024): I have switched to [BuyVM](https://buyvm.net) due to policy changes with IncogNET*
+
 ### 👾 Libreddit
 But big changes aside, I recently found out that Libreddit (the Reddit private frontend), which was dead for a few months, has been forked into a new project called [RedLib](https://gothub.r4fo.com/redlib-org/redlib). So of course I replaced the old Libreddit instance with RedLib.
 
@@ -77,7 +79,7 @@ What does this mean for you? Well, not only does RedLib support more of the newe
 Speaking of such ratelimits, the [Nitter](https://gothub.r4fo.com/zedeus/nitter) project is now dead after Twitter discontinued guest accounts, that Nitter was using to scrape Twitter. That news comes at a bad time because I was planning on running a Nitter instance, now that I've got a shiny reverse proxy. Hopefully this gets resolved.
 <br>
 
-Edit (29/2/2024): I was able to create a working Nitter instance!
+*Edit (29/2/2024): I was able to create a working Nitter instance!*
 
 ### 📝 Final notes
 This post has become too long, so again I want to thank everyone for their support. R4fo.com is slowly getting better with the day thanks to you. Feel free to send me feedback or suggestions through [this page](https://r4fo.com/contact/).
