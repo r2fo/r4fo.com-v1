@@ -22,7 +22,7 @@ a { text-decoration: none; }
 </style>
 <div class="grid">
   <a target="_blank" href="https://search.r4fo.com"><img src="/images/searxng.png" alt="Searxng logo" /></a>
-  <a target="_blank" href="https://ai.r4fo.com"><img src="/images/minisearch.webp" alt="MiniSearch logo" /></a>
+  <a target="_blank" href="https://minisearch.r4fo.com"><img src="/images/minisearch.webp" alt="MiniSearch logo" /></a>
   <a target="_blank" href="https://whoogle.r4fo.com"><img src="/images/whoogle.png" alt="Whoogle logo" /></a>
   <a target="_blank" href="https://piped.r4fo.com"><img src="/images/piped.webp" alt="Piped logo" /></a>
   <a target="_blank" href="https://proxitok.r4fo.com"><img src="/images/proxitok.png" alt="Proxitok logo" /></a>
@@ -44,7 +44,7 @@ a { text-decoration: none; }
 # [🔍 SearXNG](https://search.r4fo.com) - [[tor]](http://search.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - ♾️ Multi Engine
 - 🛡️ Everything Proxied
-# [🔍 MiniSearch](https://ai.r4fo.com) - [[tor]](http://ai.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
+# [🔍 MiniSearch](https://minisearch.r4fo.com) - [[tor]](http://minisearch.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 🦾 AI Powered Search Engine
 - 🛡️ Everything Proxied
 # [🔍 Whoogle](https://whoogle.r4fo.com) - [[tor]](http://whoogle.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
