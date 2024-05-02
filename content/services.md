@@ -69,7 +69,7 @@ a { text-decoration: none; }
 
 <br>
 
-# Social Media
+# Social
 # [👾 RedLib](https://redlib.r4fo.com) - [[tor]](http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - 👾 Reddit Frontend
 - 🛡️ Everything Proxied
