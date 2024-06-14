@@ -23,7 +23,7 @@ Matrix (🔐 End-to-end encrypted): <a href="https://matrix.to/#/@r4fo:matrix.or
 <img src="/images/icons/mastodan.svg" alt="Mastodan" width="100"/>
 <ul>
 <li>
-<a rel="me" href="https://mastodon.social/@r4fo">Mastodon</a>
+Mastodan (‼️ DM's are not encrypted): <a rel="me" href="https://mastodon.social/@r4fo">@r4fo</a>
 </ul>
 </li>
 
