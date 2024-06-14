@@ -19,8 +19,8 @@ description: Services
 
 a { text-decoration: none; }
 
-### Piped is temporary broken due to YouTube blocks
-### For updates: [statuspage](https://status.r4fo.com)
+<h3>Piped is temporary broken due to YouTube blocks</h3>
+<h3>For updates: [statuspage](https://status.r4fo.com)</h3>
 
 </style>
 <div class="grid">
