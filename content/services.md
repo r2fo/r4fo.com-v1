@@ -19,6 +19,9 @@ description: Services
 
 a { text-decoration: none; }
 
+### Piped is temporary broken due to YouTube blocks
+### For updates: [statuspage](https://status.r4fo.com)
+
 </style>
 <div class="grid">
   <a target="_blank" href="https://search.r4fo.com"><img src="/images/searxng.png" alt="Searxng logo" /></a>
