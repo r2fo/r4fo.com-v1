@@ -1,11 +1,11 @@
 ---
-title: "Piped is back up 🥳"
+title: "Piped is back up!"
 date: 2024-06-16T23:30:36+02:00
 draft: false
 language: en
 featured_image: 
-summary: Altough it's a temporary solution while I fix the bigger problem
-description: Altough it's a temporary solution while I fix the bigger problem
+summary: Temporary solution while I fix the bigger problem
+description: Temporary solution while I fix the bigger problem
 author: Admin
 authorimage: ../assets/images/global/author.webp
 categories: Transparency
