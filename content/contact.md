@@ -19,6 +19,14 @@ Email: <a href="mailto:admin@r4fo.com">admin@r4fo.com</a> - <a href="https://key
 Matrix (🔐 End-to-end encrypted): <a href="https://matrix.to/#/@r4fo:matrix.org">@r4fo:matrix.org</a><br>
 </li>
 </ul>
+
+<img src="/images/icons/mastodan.svg" alt="Mastodan" width="100"/>
+<ul>
+<li>
+<a rel="me" href="https://mastodon.social/@r4fo">Mastodon</a>
+</ul>
+</li>
+
 <hr>
 
 ### For DMCA/Copyright/Takedowns please visit [this page](http://r4fo.com/takedown/)
