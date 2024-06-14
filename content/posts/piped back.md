@@ -1,6 +1,6 @@
 ---
-title: "Piped is back up!"
-date: 2024-06-16T23:30:36+02:00
+title: "Piped is back up! 🥳"
+date: 2024-06-14T23:34:36+02:00
 draft: false
 language: en
 featured_image: 
@@ -12,10 +12,17 @@ categories: Transparency
 tags: Transparency
 ---
 
-As you may know, YouTube came with a new block that requires clients to login to watch videos. <br>
-I tried everything I could (like rebooting, reinstalling and rotating IPv6) but it seems like they blocked my whole IPv6 /64 block. <br>
-Due to time constraints and exams I couldn't really go into depth to fix it. 
+This post is my explanation of the Piped instance's 1 week downtime;
 
-But today I've deployed a VPS in New York (since I had some free credit at a provider) and I migrated Piped to there. It works, but of course there is some latency.
+YouTube recently introduced a new block that requires login to watch videos <br>
+I tried a lot of things, like rebooting, reinstalling and rotating IP's <br>
+But they had blacklisted my entire IPv6 /64 <br>
+Due to exams I didn't have time to really go into depth to fix it.
+<br>
+
+Today I finally found a little bit of time to deploy a new VPS in New York 🇺🇸 (because I had some free credit there) and I migrated Piped to there. <br>
+Unfortunately there is some latency, but at least it works now
 
 **This is a temporary solution** until I find time to bypass the blockage on RafoDE
+
+I apologize for the downtime
