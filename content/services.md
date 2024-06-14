@@ -6,6 +6,9 @@ language: en
 description: Services
 ---
 
+<h3>Piped is temporary broken due to YouTube blocks</h3>
+<h3>For updates: <a target="_blank" href="https://status.r4fo.com">statuspage</a></h3>
+
 <style>
   .grid {
     display: grid;
@@ -18,9 +21,6 @@ description: Services
 }
 
 a { text-decoration: none; }
-
-<h3>Piped is temporary broken due to YouTube blocks</h3>
-<h3>For updates: <a target="_blank" href="https://status.r4fo.com">statuspage</a></h3>
 
 </style>
 <div class="grid">
