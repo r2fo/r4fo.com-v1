@@ -9,7 +9,7 @@ description: Contact
 <h1 style="font-size: 55px; margin: 0px">📧</h1>
 <ul>
 <li>
-Email: <a href="mailto:admin@r4fo.com">admin@r4fo.com</a> - <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/2C62F088CD754C11A66E28170C6559EE0758F8E0">PGP key</a> <br>
+Email: <a href="mailto:admin@r4fo.com">admin@r4fo.com</a> - <a href="https://r4fo.com/pgp.txt">PGP key</a> <br>
 </li>
 </ul>
 
@@ -20,10 +20,10 @@ Matrix (🔐 End-to-end encrypted): <a href="https://matrix.to/#/@r4fo:matrix.or
 </li>
 </ul>
 
-<img src="/images/icons/mastodan.svg" alt="Mastodan" width="100"/>
+<img src="/images/icons/mastodon.svg" alt="Mastodan" width="50"/>
 <ul>
 <li>
-Mastodan (‼️ DM's are not encrypted): <a rel="me" href="https://mastodon.social/@r4fo">@r4fo</a>
+Mastodon (‼️ DM's are not encrypted): <a rel="me" href="https://mastodon.social/@r4fo">@r4fo:mastodon.social</a> - <a href="https://r4fo.com/pgp.txt">PGP key</a> <br>
 </ul>
 </li>
 

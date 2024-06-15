@@ -78,8 +78,8 @@ params:
       enabled: false
       url: 'https://instagram.com/'
     twitter:
-      enabled: false
-      url: '@twitter'
+      enabled: true
+      url: 'https://mastodon.social/@r4fo'
     
 
 menu:
@@ -114,13 +114,13 @@ menu:
       url: /takedown/
       weight: 30
   footer:
-    - identifier: privacypolicy
-      name: Privacy
-      url: /privacypolicy/
+    - identifier: policies
+      name: Policies
+      url: /policies/
       weight: 10
-    - identifier: termsofservice
-      name: Terms
-      url: /termsofservice/
+    - identifier: warrantcanary
+      name: Canary
+      url: /canary.txt
       weight: 20
     - identifier: contact
       name: Contact
