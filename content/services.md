@@ -6,8 +6,7 @@ language: en
 description: Services
 ---
 
-<h3>⚠️ Piped's performance is temporary degraded due to changes made by YouTube</h3>
-<h3>For updates: <a target="_blank" href="https://status.r4fo.com">statuspage</a></h3>
+<h3>✅ The Piped instance has been fixed and is running fine </h3>
 
 <style>
   .grid {
