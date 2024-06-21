@@ -50,7 +50,7 @@ For your convenience, you can navigate directly to each section by clicking the 
    
 - 🔄 Cloudflare Proxy is **✅ ENABLED**
 
-### ProxiTok, RedLib, SafeTwitch and Nitter
+### SafeTwitch, RedLib and Nitter
 - 🔄 Cloudflare Proxy is **✅ ENABLED**
 
 <br>

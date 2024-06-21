@@ -15,7 +15,7 @@ Here is an overview of my monthly expenses:
 |Domain|€9 / year||
 |Oracle server|€0|general hosting|
 |Netcup server|€30 / quarter|video streaming|
-|Incognet server|€11 / quarter|reverse proxy|
+|BuyVM server|€11 / quarter|reverse proxy|
 
 <hr>
 
@@ -37,24 +37,28 @@ For one time donations, choose Ko-Fi
 
 ## Referrals codes: {#vouchers}
 
-<details>
-<summary>Hosting (VPS & Webhosting)</summary>
+### BuyVM (VPS)
 
-Redeemable at [https://www.netcup.eu/bestellen/warenkorb.php](https://www.netcup.eu/bestellen/warenkorb.php)
+Need an amazing and understanding host who knows how to deal with unique situations?  
+Use my referral link: https://my.frantech.ca/aff.php?aff=7352
+
+
+### Netcup (VPS)
+Get your own affordable high-bandwidth VPS at Netcup!  
+Redeemable at https://www.netcup.eu/bestellen/warenkorb.php
 
 <ul>
-<li><a href="https://netcup.eu/">Netcup.eu</a>: €5 discount on VPS & Webhosting: <code>36nc17009396940, 36nc17009396941, 36nc17009396942, 36nc17009396943, 36nc17009396944</code> </li>
+<li>€5 discount on VPS & Webhosting: <code>36nc17009396940, 36nc17009396941, 36nc17009396942, 36nc17009396943, 36nc17009396944</code> </li>
 <br>
-<li><a href="https://netcup.eu/">Netcup.eu</a>: 3 months free rootserver RS 1000: <code>2915nc17009393310, 2915nc17009393311, 2915nc17009393312</code> </li>
-<li><a href="https://netcup.eu/">Netcup.eu</a>: 2 months free rootserver RS 2000: <code>2916nc17009402010, 2916nc17009402011, 2916nc17009402012</code> </li>
-<li><a href="https://netcup.eu/">Netcup.eu</a>: 2 months free rootserver RS 4000: <code>2917nc17009402540, 2917nc17009402541, 2917nc17009402542</code> </li>
-<li><a href="https://netcup.eu/">Netcup.eu</a>: 1 months free rootserver RS 8000: <code>2918nc17009402720, 2918nc17009402721, 2918nc17009402722</code> </li>
+<li>3 months free rootserver RS 1000: <code>2915nc17009393310, 2915nc17009393311, 2915nc17009393312</code> </li>
+<li>2 months free rootserver RS 2000: <code>2916nc17009402010, 2916nc17009402011, 2916nc17009402012</code> </li>
+<li>2 months free rootserver RS 4000: <code>2917nc17009402540, 2917nc17009402541, 2917nc17009402542</code> </li>
+<li>1 months free rootserver RS 8000: <code>2918nc17009402720, 2918nc17009402721, 2918nc17009402722</code> </li>
 <br>
-<li><a href="https://netcup.eu/">Netcup.eu</a>: 1 month free VPS 1000: <code>3062nc17009395920, 3062nc17009395921, 3062nc17009395922</code> </li>
-<li><a href="https://netcup.eu/">Netcup.eu</a>: 1 month free VPS 2000: <code>3063nc17009400630, 3063nc17009400631, 3063nc17009400632</code> </li>
-<li><a href="https://netcup.eu/">Netcup.eu</a>: 1 month free VPS 3000: <code>3064nc17009401090, 3064nc17009401091, 3064nc17009401092</code> </li>
-<li><a href="https://netcup.eu/">Netcup.eu</a>: 1 month free VPS 4000: <code>3065nc17009401290, 3065nc17009401291, 3065nc17009401292</code> </li>
-<li><a href="https://netcup.eu/">Netcup.eu</a>: 1 month free VPS 6000: <code>3066nc17009401610, 3066nc17009401611, 3066nc17009401612</code> </li>
-<li><a href="https://netcup.eu/">Netcup.eu</a>: 1 month free VPS 8000: <code>3067nc17009401790, 3067nc17009401791, 3067nc17009401792</code> </li>
+<li>1 month free VPS 1000: <code>3062nc17009395920, 3062nc17009395921, 3062nc17009395922</code> </li>
+<li>1 month free VPS 2000: <code>3063nc17009400630, 3063nc17009400631, 3063nc17009400632</code> </li>
+<li>1 month free VPS 3000: <code>3064nc17009401090, 3064nc17009401091, 3064nc17009401092</code> </li>
+<li>1 month free VPS 4000: <code>3065nc17009401290, 3065nc17009401291, 3065nc17009401292</code> </li>
+<li>1 month free VPS 6000: <code>3066nc17009401610, 3066nc17009401611, 3066nc17009401612</code> </li>
+<li>1 month free VPS 8000: <code>3067nc17009401790, 3067nc17009401791, 3067nc17009401792</code> </li>
 </ul>
-</details>

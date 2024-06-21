@@ -17,7 +17,9 @@ Today, I have disabled Cloudflare's Proxy for most of my services. I have realiz
 
 Cloudflare's Proxy will still be enabled for these services, to protect them against bots wasting bandwidth and for CDN purposes:
 - [Piped](https://piped.r4fo.com)
-- [ProxiTok](https://proxitok.r4fo.com)
-- [Libreddit](https://libreddit.r4fo.com)
 - [SafeTwitch](https://safetwitch.r4fo.com)
-- [Rimgo](https://rimgo.r4fo.com)
+~~- [ProxiTok](https://proxitok.r4fo.com)~~
+- [RedLib](https://redlib.r4fo.com)
+- [Nitter](https://nitter.r4fo.com)
+
+Edit [21 Jun 2024]: Cloudflare Proxy has been disabled for ProxiTok
