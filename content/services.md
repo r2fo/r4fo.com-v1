@@ -6,8 +6,6 @@ language: en
 description: Services
 ---
 
-<h3>✅ The Piped instance has been fixed and is running fine </h3>
-
 <style>
   .grid {
     display: grid;
