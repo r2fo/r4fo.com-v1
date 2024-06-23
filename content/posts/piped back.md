@@ -26,3 +26,5 @@ Due to exams I didn't have time to really go into depth to fix it.
 I apologize for the downtime
 
 ### Edit: As of June 16th 2024 the Piped instance has been fixed and is working fine
+
+### Edit [June 23th 2024]: Please read my notice on Piped's hidden service [here](https://status.r4fo.com)
