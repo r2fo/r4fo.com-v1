@@ -6,10 +6,6 @@ language: en
 description: Services
 ---
 
-### I'm sorry for the recent problems with Piped. 
-### First YT banned my whole IPv6 block. Then Piped's Tor HS broke all video playback.
-### After disabling the Tor hidden service everything works now!
-
 <style>
   .grid {
     display: grid;
