@@ -38,7 +38,6 @@ For one time donations, choose Ko-Fi
 ## Referrals codes: {#vouchers}
 
 ### BuyVM (VPS)
-
 Need an amazing and understanding host who knows how to deal with unique situations?  
 Use my referral link: https://my.frantech.ca/aff.php?aff=7352
 

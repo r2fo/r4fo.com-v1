@@ -16,10 +16,11 @@ While signing the declaration makes it impossible for a third party to produce a
 Please take note if this message is modified, not updated or is removed from this page entirely.
 Our public key can be found here: https://r4fo.com/pgp.txt
 
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-As of June 15th 2024,
+As of July 2th 2024,
 We have not been served any warrants.
 No searches or seizures of any kind have ever been performed on our assets.
 We have no direct or indirect knowledge of any backdoors, or potential backdoors in our servers or network and we have no received any requests to implement a backdoor.
@@ -29,22 +30,21 @@ We have not been forced to start logging traffic
 
 Proof of freshness:
 Source: https://localmonero.co/blocks/
-height: 3171710
-hash: 335ffcd7c88d8eef5faa83007243f552c6033e4ae0eba2ef68998e1fd12cbf47
+height: 3184043
+hash: 6418f91d240e3a2fd8996d3af2a2258900bb643d3ee00542e6779573eccd6c26
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEELGLwiM11TBGmbigXDGVZ7gdY+OAFAmZtaacACgkQDGVZ7gdY
-+OBCpxAAgKQKGm/a6/p3HcgPzGe7lUZ4UjAXUeG3VZT1rBZcbcQ8bXWcZXtoEV9y
-Q6pLE04Q23UgiHtf9r2xobYGL+yxyqjv9eYbY1zOwBanDCTDPSHSK6Iz2/G4d/gS
-Nrx8tkYhQD42vum/esRTdoA9cDC12sjN3NVl3xOE//Bl9mdDZymOa4QZe4ZHZ4Y3
-+CUhizwiTDZtthHANSUAxPHontPn9L5rIIUjcyiuDajWOwJaPsu4ipaVQEYoMeAG
-y+wiEa45JKb/nXZr+qjbmavuuMUcBYZY9GNojlpsnhxS1c8UMVh+JNC8q/0p/hSM
-7BaE6Kf6QWxG6Ug82v3c3wbuZyOUayzFKnm438VqFLl0yjbde8cYvxFB6HLZDClZ
-QKI8bQm/b7qyubWGFtHKsZTzguZ7yXJ8r4GJESnKIoPnx9xJD48/P7IbRLRe/vTT
-AzDhNlzxh+dT3xfONwqxIHRwtWF8LT5616HE9eDAFp/ZE1e1EBkVyDNsZiFS6eNi
-za7uSC4W30ej6rzKdIZJHNjZPup55SHIq2ibqYIMKfPwPZ6PWYxqj2Vzt/U/kxOi
-IgkyUfiTUkZYRDioM3O+6LClpVIuvbxUfkh7hm9/zbEJL2xnVwNE4O2mYRlrF4hl
-wJlLM1bELBMpUYxnUzmO2kIsnKN+NWU+JjmgKHsumanG48StgaQ=
-=KbmJ
+iQIzBAEBCAAdFiEELGLwiM11TBGmbigXDGVZ7gdY+OAFAmaD6W0ACgkQDGVZ7gdY
++OB75g//dpSIYEuXxhRkeviXEUwh4ulXz27jodJpFkvBXvHVnaa5F4YpqApLy1rs
+1fNSjaMcpbfavUY/+tq8qsHafPiBPSr9Dej3p8xMd6buHLpDkXvlOefOhoG7QmE/
+OMhnbAewR0VZn85k7vnfhTt9PofiStjl175rAQHFskAOu8wBXxYCHV97UBRh99Vm
+H8kVk42sOza6ED3BIyS4zWbC8VNkLKRdfxDywObLDNijKzE8jAoSllzH71j8+rry
+qLrISYmwkS5245oEyRX9zgrI3FOsaZRkB19djEyjOzONi5v5Gvvef/Z94ALJI1QO
+6FTpfO9xtOhraSvLtW0zolxIp8rAg15fNayz6RPUuowoi9MXZt7tg3GH2ZwfiMps
+7ANRKhYW4GRRAo3fFcJfOuOLWJAHQNFVIk5xe5QiKQR+vW/nnWsYp7oVfIO0qcB0
+B81smahy92qTEz40dmwNL5JcS7lI5zv+uWLU7k11CvnmlOJCGIoqOFcwQp1R92f6
+6krfhA4YCf+zZnkbRhW7QwvmZe8qyPAFo2Yl1DgQ9f/JlHWZ/RMPB1Zo9/J4kHzY
+t6eF1874vK4XVncuaNSpoe2Osd3CXghR5hiAS7S7Ng7m20+tnZwEa/cCu4fyz0Qt
+f36FuRPpIeSMa1bECiB6Svr/6IORpreLD43oSKfVjP5gqQscBGU=
+=/zyV
 -----END PGP SIGNATURE-----
-
