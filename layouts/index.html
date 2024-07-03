@@ -1,111 +1,685 @@
-{{ define "main" }}
+<!DOCTYPE html>
+<html lang="en" class="dark">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+<link rel="manifest" href="/favicon/site.webmanifest">
+<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<title itemprop="name"> Posts | R4fo.com 
+</title>
+<meta name="description" content="Use all the popular platforms without exposure to 📢 ads, 👁️ tracking and ☝️fingerprinting." />
+<meta property="og:title" content="Posts | R4fo.com" />
+<meta name="twitter:title" content="Posts | R4fo.com" />
+<meta itemprop="name" content="Posts | R4fo.com" />
+<meta name="application-name" content="Posts | R4fo.com" />
+<meta property="og:description"
+      content="Use all the popular platforms without exposure to 📢 ads, 👁️ tracking and ☝️fingerprinting." />
+<meta property="og:site_name" content="R4fo.com" />
+<meta property="og:url" content="/posts/" />
+<meta property="og:locale" content="en">
+<meta property="og:image" content="/images/tailbliss-cover.png" />
+<meta property="og:image:secure_url" content="/images/tailbliss-cover.png" />
+<meta property="og:type" content="article" />
+
+
+
+
+
+<link rel="stylesheet" href="/css/style.min.9a429de0074bb03b54a5dae5ec7013170c72f4d11103257e4b1ae0985e52da3d.css" integrity="sha256-mkKd4AdLsDtUpdrl7HATFwxy9NERAyV+SxrgmF5S2j0=" />
+
+</head>
+
+<body class="bg-zinc-100 dark:bg-gray-800">
+    <div class="top-0 z-50 w-full text-gray-200 bg-gray-900 border-2 border-gray-900 md:sticky border-b-stone-200/10">
+    <div x-data="{ open: false }"
+         class="flex flex-col max-w-full px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
+        <div class="flex flex-row items-center justify-between p-4">
+            <a href="/" class="flex text-gray-100 transition duration-1000 ease-in-out group">
+                <img src="/images/site-logo.svg"
+                     class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70"
+                     alt="R4fo.com Logo" />
+                <div
+                     class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">
+                    R4fo.com</div>
+            </a>
+            <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open" role="navigation" aria-expanded="false" aria-label="Main" aria-controls="menuItems">
+                <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
+                    <path x-show="!open" fill-rule="evenodd"
+                          d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z"
+                          clip-rule="evenodd"></path>
+                    <path x-show="open" fill-rule="evenodd"
+                          d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+                          clip-rule="evenodd"></path>
+                </svg>
+            </button>
+        </div>
+        <nav :class="{'flex': open, 'hidden': !open}"
+             class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-end md:flex-row">
+            
+            
+            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline"
+                href="/services/" title="🖥️ Services">
+                🖥️ Services
+            </a>
+            
+            
+            
+            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline"
+                href="/donate/" title="❤️ Donate">
+                ❤️ Donate
+            </a>
+            
+            
+            
+            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline"
+                href="https://status.r4fo.com" title="📊 Status">
+                📊 Status
+            </a>
+            
+            
+            
+            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline"
+                href="/contact/" title="✉️ Contact">
+                ✉️ Contact
+            </a>
+            
+            
+            
+        </nav>
+    </div>
+</div>
+    
 <html class="dark">
 <main>
-    <div class="bg-gray-200 dark:bg-gray-900">
-        <div class="max-w-screen-xl px-4 py-8 mx-auto">
-            <div class="grid items-center gap-8 mb-8 sm:mb-0 lg:gap-12 lg:grid-cols-12">
-                <div class="col-span-6 px-4 text-center sm:mb-6 lg:text-left lg:mb-0">
-                    <h1 class="mb-2 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl xl:text-6xl dark:text-white">
-                        {{ .Site.Title }}
-                    </h1>
-                    <h2 class="pb-2 text-3xl font-light text-gray-800 dark:text-gray-300 md:text-4xl">
-                        {{ .Site.Params.Moto }}
-                    </h2>
-                    <p class="max-w-xl mx-auto mb-6 font-normal text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50">
-                        {{ .Site.Params.Description}}
-                    </p>
-                </div>
-                <div class="col-span-6">
-                    {{ $hero := resources.GetMatch "images/pages/cover.png" }}
+    <article>
+        
+        <div class="bg-gray-200 dark:bg-gray-900">
+    <div class="max-w-screen-xl px-4 py-8 mx-auto">
+        <div class="grid items-center gap-8 mb-8 sm:mb-0 lg:gap-12 lg:grid-cols-12">
+            <div class="col-span-6 px-4 text-center sm:mb-6 lg:text-left lg:mb-0">
+                <h1 class="mb-2 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl xl:text-6xl dark:text-white">
+                    R4fo.com
+                </h1>
+                <h2 class="pb-2 text-3xl font-light text-gray-800 dark:text-gray-300 md:text-4xl">
+                    Privacy Services
+                </h2>
+                <p class="max-w-xl mx-auto mb-6 font-normal text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50">
+                    Use all the popular platforms without exposure to 📢 ads, 👁️ tracking and ☝️fingerprinting.
+                </p>
+            </div>
+            <div class="col-span-6">
+                
 
-                    <!-- {{ $thumb := ($hero.Fill "400x400 webp q90") }}
-                    {{ $large := ($hero.Fill "576x576 webp q90") }} -->
+                
 
-                    <img srcset="
-                        {{- with $thumb.RelPermalink -}}{{.}} 400w{{- end -}}
-                        {{- with $large.RelPermalink -}}, {{.}} 576w{{- end -}}" src="{{ $hero.RelPermalink }}" width="100%" height="" alt="Privacy Cover" class="w-full max-w-xl mx-auto rounded-lg" />
-                </div>
+                <img srcset="/images/pages/cover_hue67d81fe60efce60b9945d6c17105649_229435_400x400_fill_q90_h2_box_smart1_3.webp 400w, /images/pages/cover_hue67d81fe60efce60b9945d6c17105649_229435_576x576_fill_q90_h2_box_smart1_3.webp 576w" src="/images/pages/cover.png" width="100%" height="" alt="Privacy Cover" class="w-full max-w-xl mx-auto rounded-lg" />
             </div>
         </div>
     </div>
-
-    <!-- Blog section -->
-    <div class="relative px-1 pt-8 pb-4 bg-transparent lg:px-8 lg:pt-12 lg:mb-4 md:mt-12">
-        <div class="absolute inset-0">
-            <div class="bg-gray-200 dark:bg-gray-900/50 h-1/3 sm:h-2/3"></div>
-        </div>
-        <div class="relative px-2 mx-auto max-w-7xl">
-            <div class="text-center">
-                <h2 class="text-3xl font-black tracking-tight text-primary-500 dark:text-primary-300 sm:text-4xl">
-                    {{ .Site.Params.P4.Heading }}
-                </h2>
-                {{ range .Site.Params.P4.Content }}
-                <p class="max-w-2xl mx-auto mt-3 text-xl text-gray-500 dark:text-gray-300 sm:mt-4">
-                    {{ .text }}
-                </p>
-                {{ end }}
-            </div>
-
-            <div class="mx-auto text-gray-900 max-w-7xl dark:text-gray-50 md:px-1.5">
-                <div class="px-4 text-gray-900 dark:text-white not-prose dark:text-zinc-200">
-                    <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
-                        {{ range (.Paginator 3).Pages }}
-                        <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                            <a href="{{.Permalink}}">
-                                {{ with .Params.featured_image }}
-                                {{ with resources.Get . }}
-                                {{ $postimage := (.Resize "500x webp q90").RelPermalink }}
-                                <img src="{{ $postimage }}" class="object-fill overflow-hidden rounded-t-lg" width="100%" height="" loading="lazy" alt="{{ .Title }}" />
-
-                                {{ end }}
-                                {{ end }}
-                            </a>
-                            <div class="p-6">
-                                <div class="flex-1">
-                                    <a href="{{.Permalink}}" class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
-                                        {{ .Title }}
-                                    </a>
-                                    <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                                        {{ .Params.summary }}
-                                    </p>
-                                </div>
-                                <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
-                                    <span class="pr-2 font-black">Tags:</span>
-                                    {{ range $elem_index, $elem_val := (.GetTerms "tags") }}
-                                    {{- if gt $elem_index 0 }}, {{ end -}}
-                                    <a href="{{ .Permalink }}" class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 ">{{ .LinkTitle }}</a>
-                                    {{- end -}}
-                                </div>
-                                <div class="flex items-center mt-6">
-                                    <div class="flex-shrink-0">
-                                        <span class="sr-only">{{ .Params.author }}</span>
-                                        {{ with .Params.authorimage }}
-                                        {{ with resources.Get . }}
-                                        {{ $authorimage := (.Resize "400x webp").RelPermalink }}
-                                        <img class="w-10 h-10 rounded-full" src="{{ $authorimage }}" alt="">
-                                        {{ end }}
-                                        {{ end }}
-                                    </div>
-                                    <div class="pt-1 ml-3">
-                                        <p class="text-sm font-medium text-gray-900 dark:text-white">
-                                            {{ .Params.author }}
-                                        </p>
-                                        <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
-                                            <time datetime="2020-02-12">{{.Date.Format "2006-01-02"}}</time>
-                                            <span aria-hidden="true">&middot;</span>
-                                            <span>{{ math.Round (div (countwords .Content) 220.0) }}
-                                                min read</span>
-                                        </div>
-                                    </div>
-                                </div>
+</div>
+<div class="mx-auto text-gray-900 max-w-7xl dark:text-gray-50">
+    <div class="px-4 not-prose">
+        <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="/posts/piped-back/">
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="/posts/piped-back/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            Piped is back up! 🥳
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            Piped is back and running fine like usual
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="/tags/transparency/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">Transparency</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Admin</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/../assets/images/global/author_hud2dbaf9d6dca51eb309befb3693cd1fd_1186_40x0_resize_q75_h2_box_2.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Admin
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2020-02-12">2024-06-14</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>1
+                                    min read</span>
                             </div>
                         </div>
-                        {{ end }}
                     </div>
                 </div>
             </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="/posts/buyvm/">
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="/posts/buyvm/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            New provider for the reverse proxy
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            Making sure we stay resilient
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="/tags/transparency/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">Transparency</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Admin</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/../assets/images/global/author_hud2dbaf9d6dca51eb309befb3693cd1fd_1186_40x0_resize_q75_h2_box_2.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Admin
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2020-02-12">2024-04-29</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>0
+                                    min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="/posts/new-search-engines/">
+                    
+                    
+                    
+                    <img src="/../assets/images/featured/aisearch_hu2cd9c8c2e080e5a2d7eceaea3c8e038a_144136_500x0_resize_q90_h2_box_2.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
+                         loading="lazy" alt="/../assets/images/featured/aisearch.webp" />
+
+                    
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="/posts/new-search-engines/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            Introducing AI powered search
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            Benefits of AI, with the privacy benefit of on device processing
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="/tags/news/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">News</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Admin</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/../assets/images/global/author_hud2dbaf9d6dca51eb309befb3693cd1fd_1186_40x0_resize_q75_h2_box_2.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Admin
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2020-02-12">2024-04-27</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>1
+                                    min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="/posts/nitter/">
+                    
+                    
+                    
+                    <img src="/../assets/images/featured/nitter_hu0d38ebbf5801928773ad1d83d545f0d3_125900_500x0_resize_q90_h2_box_2.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
+                         loading="lazy" alt="/../assets/images/featured/nitter.webp" />
+
+                    
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="/posts/nitter/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            New: 🐦 Nitter instance!
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            One of the last Nitter instances alive
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="/tags/news/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">News</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Admin</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/../assets/images/global/author_hud2dbaf9d6dca51eb309befb3693cd1fd_1186_40x0_resize_q75_h2_box_2.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Admin
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2020-02-12">2024-02-29</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>0
+                                    min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="/posts/new-server/">
+                    
+                    
+                    
+                    <img src="/../assets/images/featured/server_hu9ef631a62b8941ce0175a326fedd668c_124360_500x0_resize_q90_h2_box_2.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
+                         loading="lazy" alt="/../assets/images/featured/server.webp" />
+
+                    
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="/posts/new-server/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            Reflecting on the journey &#43; new server
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            Enhancing the resilience of my infrastructure
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="/tags/news/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">News</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Admin</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/../assets/images/global/author_hud2dbaf9d6dca51eb309befb3693cd1fd_1186_40x0_resize_q75_h2_box_2.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Admin
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2020-02-12">2024-02-03</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>4
+                                    min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="/posts/running-a-tor-hidden-service/">
+                    
+                    
+                    
+                    <img src="/../assets/images/featured/torhiddenservice_hu1e5b48ae120ad764a802548d4579af24_200526_500x0_resize_q90_h2_box_2.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
+                         loading="lazy" alt="/../assets/images/featured/torhiddenservice.webp" />
+
+                    
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="/posts/running-a-tor-hidden-service/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            Running a Tor Hidden Service &#43; selfhosting r4fo.com
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            Bye bye Cloudflare Pages!
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="/tags/news/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">News</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Admin</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/../assets/images/global/author_hud2dbaf9d6dca51eb309befb3693cd1fd_1186_40x0_resize_q75_h2_box_2.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Admin
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2020-02-12">2023-12-15</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>1
+                                    min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="/posts/disabling-cloudflare-for-most-services/">
+                    
+                    
+                    
+                    <img src="/../assets/images/featured/orangecloud_huda81de827da7ce64504c0f16f9814612_127420_500x0_resize_q90_h2_box_2.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
+                         loading="lazy" alt="/../assets/images/featured/orangecloud.webp" />
+
+                    
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="/posts/disabling-cloudflare-for-most-services/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            Disabling ☁️Cloudflare for most services
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            r4fo.com&#39;s infrastructure has outgrown the need for a third party MITM
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="/tags/news/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">News</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Admin</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/../assets/images/global/author_hud2dbaf9d6dca51eb309befb3693cd1fd_1186_40x0_resize_q75_h2_box_2.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Admin
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2020-02-12">2023-12-13</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>0
+                                    min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="/posts/6-new-services/">
+                    
+                    
+                    
+                    <img src="/../assets/images/featured/billboard_hu2b608f01ef0189cd118a23d7250ec3df_107288_500x0_resize_q90_h2_box_2.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
+                         loading="lazy" alt="/../assets/images/featured/billboard.webp" />
+
+                    
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="/posts/6-new-services/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            Adding 6 more instances!
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            Expanding the scope of r4fo.com
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="/tags/news/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">News</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Admin</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/../assets/images/global/author_hud2dbaf9d6dca51eb309befb3693cd1fd_1186_40x0_resize_q75_h2_box_2.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Admin
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2020-02-12">2023-12-11</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>0
+                                    min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="/posts/cloudflare-pages/">
+                    
+                    
+                    
+                    <img src="/../assets/images/featured/cfpages_hu28789b4919f97cea025b534a5671ad4d_11704_500x0_resize_q90_h2_box_2.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
+                         loading="lazy" alt="/../assets/images/featured/cfpages.webp" />
+
+                    
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="/posts/cloudflare-pages/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            Switching to Cloudflare Pages
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            r4fo.com is no longer being hosted by GitHub Pages
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="/tags/transparency/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">Transparency</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Admin</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/../assets/images/global/author_hud2dbaf9d6dca51eb309befb3693cd1fd_1186_40x0_resize_q75_h2_box_2.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Admin
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2020-02-12">2023-12-03</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>0
+                                    min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
         </div>
+    </div>
+</div>
+
+    </article>
+    <div class="max-w-xl mx-auto my-16">
+        
+
+
+
+<nav class="flex items-center justify-center px-4 sm:px-0">
+    <div class="flex flex-1 w-0">
+        <div class="mx-auto border-t-2 border-primary-300">
+            
+            
+
+            
+
+            
+            
+            
+            <a class="font-black page-item active"><a href="/posts/"
+                    class="inline-flex items-center px-4 pt-4 text-lg font-medium text-primary-600 dark:text-primary-400">1</a>
+            </a>
+            
+            
+            
+            
+            
+            <a class="page-item"><a href="/posts/page/2/"
+                    class="inline-flex items-center px-4 pt-4 text-lg font-medium text-primary-600 dark:text-primary-400">2</a>
+            </a>
+            
+            
+
+            
+            <a class="page-item"><a href="/posts/page/2/" rel="next"
+                    class="inline-flex items-center px-4 pt-4 text-lg font-black text-primary-600 dark:text-primary-400">Next
+                    ›</a></a>
+            
+
+            
+            
+        </div>
+</nav>
+
     </div>
 </main>
 </html>
-{{ end }}
+
+    
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+<footer class="bg-gray-900">
+    <div class="max-w-md px-4 py-12 mx-auto overflow-hidden sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
+        <nav class="flex flex-wrap justify-center -mx-5 -my-2" aria-label="Footer">
+            
+            <div class="px-5 py-2">
+                <a href="/privacypolicy/" class="text-base text-gray-400 hover:text-gray-300">Privacy</a>
+            </div>
+            
+            <div class="px-5 py-2">
+                <a href="/termsofservice" class="text-base text-gray-400 hover:text-gray-300">Terms</a>
+            </div>
+            
+            <div class="px-5 py-2">
+                <a href="/canary.txt" class="text-base text-gray-400 hover:text-gray-300">Canary</a>
+            </div>
+            
+        </nav>
+        <div class="flex justify-center mt-8 space-x-6">
+            
+            
+            
+            <a href="https://mastodon.social/@r4fo" class="text-gray-400 hover:text-gray-300">
+                <span class="sr-only">Mastodon</span>
+                <svg class="w-6 h-7" fill="currentColor" viewBox="0 0 216.4144 232.00976" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+                  <path fill="#9ca3af" d="M211.80734 139.0875c-3.18125 16.36625-28.4925 34.2775-57.5625 37.74875-15.15875 1.80875-30.08375 3.47125-45.99875 2.74125-26.0275-1.1925-46.565-6.2125-46.565-6.2125 0 2.53375.15625 4.94625.46875 7.2025 3.38375 25.68625 25.47 27.225 46.39125 27.9425 21.11625.7225 39.91875-5.20625 39.91875-5.20625l.8675 19.09s-14.77 7.93125-41.08125 9.39c-14.50875.7975-32.52375-.365-53.50625-5.91875C9.23234 213.82 1.40609 165.31125.20859 116.09125c-.365-14.61375-.14-28.39375-.14-39.91875 0-50.33 32.97625-65.0825 32.97625-65.0825C49.67234 3.45375 78.20359.2425 107.86484 0h.72875c29.66125.2425 58.21125 3.45375 74.8375 11.09 0 0 32.975 14.7525 32.975 65.0825 0 0 .41375 37.13375-4.59875 62.915"/>
+                  <path fill="#111827" d="M177.50984 80.077v60.94125h-24.14375v-59.15c0-12.46875-5.24625-18.7975-15.74-18.7975-11.6025 0-17.4175 7.5075-17.4175 22.3525v32.37625H96.20734V85.42325c0-14.845-5.81625-22.3525-17.41875-22.3525-10.49375 0-15.74 6.32875-15.74 18.7975v59.15H38.90484V80.077c0-12.455 3.17125-22.3525 9.54125-29.675 6.56875-7.3225 15.17125-11.07625 25.85-11.07625 12.355 0 21.71125 4.74875 27.8975 14.2475l6.01375 10.08125 6.015-10.08125c6.185-9.49875 15.54125-14.2475 27.8975-14.2475 10.6775 0 19.28 3.75375 25.85 11.07625 6.36875 7.3225 9.54 17.22 9.54 29.675"/>
+                </svg>
+            </a>
+            
+            
+            <a href="https://github.com/r2fo/r4fo.com" class="text-gray-400 hover:text-gray-300">
+                <span class="sr-only">GitHub</span>
+                <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path fill-rule="evenodd"
+                          d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"
+                          clip-rule="evenodd" />
+                </svg>
+            </a>
+            
+        </div>
+        <p class="mt-2 text-base text-center text-gray-400">Hosted by 
+            <a href="https://r4fo.com" class="hover:underline hover:text-primary-600">
+                <span class="font-black uppercase">R4FO.COM</span> <span class="font-light uppercase">Privacy Services</span></a> in 🇪🇺
+        </p>
+    </div>
+</footer>
+</body>
+
+</html>

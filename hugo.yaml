@@ -88,17 +88,17 @@ menu:
       name: 🖥️ Services
       url: /services/
       weight: 10
-    - identifier: posts
-      name: 📰 Posts
-      url: /posts/
-      weight: 20
     - identifier: donate
       name: ❤️ Donate
       url: /donate/
-      weight: 30
+      weight: 20
     - identifier: status
       name: 📊 Status
       url: https://status.r4fo.com
+      weight: 30
+    - identifier: contact
+      name: ✉️ Contact
+      url: /contact/
       weight: 40
   categories:
     - identifier: privacypolicy
@@ -114,17 +114,17 @@ menu:
       url: /takedown/
       weight: 30
   footer:
-    - identifier: policies
-      name: Policies
-      url: /policies/
+    - identifier: privacypolicy
+      name: Privacy
+      url: /privacypolicy/
       weight: 10
+    - identifier: termsofservice
+      name: Terms
+      url: /termsofservice
+      weight: 20
     - identifier: warrantcanary
       name: Canary
       url: /canary.txt
-      weight: 20
-    - identifier: contact
-      name: Contact
-      url: /contact/
       weight: 30
 
 markup:
