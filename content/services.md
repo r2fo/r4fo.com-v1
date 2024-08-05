@@ -41,7 +41,7 @@ a { text-decoration: none; }
 <hr>
 
 # Search Engines
-# [🔍 SearXNG](https://search.r4fo.com) - [[tor]](http://search.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
+# [🔍 SearXNG](https://search.r4fo.com)
 - ♾️ Multi Engine
 - 🛡️ Everything Proxied
 # [🔍 MiniSearch](https://minisearch.r4fo.com) - [[tor]](http://minisearch.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
