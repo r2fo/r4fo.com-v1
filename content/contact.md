@@ -9,7 +9,9 @@ description: Contact
 <h1 style="font-size: 55px; margin: 0px">📧</h1>
 <ul>
 <li>
-Email: <a href="mailto:admin@r4fo.com">admin@r4fo.com</a> - <a href="https://r4fo.com/pgp.txt">PGP key</a> <br>
+Email (<a href="https://r4fo.com/pgp.txt">PGP key</a>): <br>
+<a href="mailto:admin@r4fo.com">admin@r4fo.com</a> (‼️ Not encrypted) <br>
+<a href="mailto:r4fo.com@protonmail.com">r4fo.com@protonmail.com</a> (🔐 E2E encrypted for Proton users) <br>
 </li>
 </ul>
 
@@ -19,13 +21,6 @@ Email: <a href="mailto:admin@r4fo.com">admin@r4fo.com</a> - <a href="https://r4f
 Matrix (🔐 End-to-end encrypted): <a href="https://matrix.to/#/@r4fo:matrix.org">@r4fo:matrix.org</a><br>
 </li>
 </ul>
-
-<img src="/images/icons/mastodon.svg" alt="Mastodan" width="50"/>
-<ul>
-<li>
-Mastodon (‼️ DM's are not encrypted): <a rel="me" href="https://mastodon.social/@r4fo">@r4fo:mastodon.social</a> - <a href="https://r4fo.com/pgp.txt">PGP key</a> <br>
-</ul>
-</li>
 
 <hr>
 
