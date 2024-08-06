@@ -18,7 +18,7 @@ Email (<a href="https://r4fo.com/pgp.txt">PGP key</a>): <br>
 <img src="/images/icons/matrix.svg" alt="Matrix" width="100"/>
 <ul>
 <li>
-Matrix (🔐 End-to-end encrypted): <a href="https://matrix.to/#/@r4fo:matrix.org">@r4fo:matrix.org</a><br>
+Matrix (🔐 E2E encrypted): <a href="https://matrix.to/#/@r4fo:matrix.org">@r4fo:matrix.org</a><br>
 </li>
 </ul>
 
