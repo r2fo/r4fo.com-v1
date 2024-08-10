@@ -24,6 +24,6 @@ Matrix (🔐 E2E encrypted): <a href="https://matrix.to/#/@r4fo:matrix.org">@r4f
 
 <hr>
 
-### For DMCA/Copyright/Takedowns please visit [this page](http://r4fo.com/takedown/)
+### For DMCA / Copyright / Takedowns please visit [this page](http://r4fo.com/takedown/)
 <br>
 <br>

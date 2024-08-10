@@ -1,5 +1,5 @@
 ---
-title: "🚫 (DMCA) Takedown"
+title: "🚫 Takedown"
 date: 2023-11-1T00:00:00+02:00
 draft: false
 language: en
@@ -8,7 +8,12 @@ description: Takedown
 
 ## Please read this carefully before requesting any takedowns
 
-All of our services operate as **proxies**, facilitating access to content hosted on their original platform. We **do not** host any content.
+### For bin.r4fo.com
+All content hosted on bin.r4fo.com is user-uploaded. We are not responsible for the content uploaded by users.  <br>
+If you believe something may violate our [Terms of Service](https://r4fo.com/termsofservice/#bin-terms), please contact us at ```abuse [AT] r4fo [DOT] com```
+
+### For everything else
+All services, except bin.r4fo.com, operate as **proxies**, facilitating access to content hosted on their original platform. We **do not** host any content.
 To request content removal, please contact the original platform directly. After they remove the content, it is automatically removed from our services as well.
 
 If you still want to contact us, send an email to ```copyright [AT] r4fo [DOT] com``` <br>
