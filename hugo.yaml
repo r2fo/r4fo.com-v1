@@ -88,18 +88,22 @@ menu:
       name: 🖥️ Services
       url: /services/
       weight: 10
+    - identifier: posts
+      name: 📰 Posts
+      url: /posts/
+      weight: 20
     - identifier: donate
       name: ❤️ Donate
       url: /donate/
-      weight: 20
+      weight: 30
     - identifier: status
       name: 📊 Status
       url: https://status.r4fo.com
-      weight: 30
+      weight: 40
     - identifier: contact
       name: ✉️ Contact
       url: /contact/
-      weight: 40
+      weight: 50
   categories:
     - identifier: privacypolicy
       name: 🔒 Privacy Policy
