@@ -18,8 +18,12 @@ description: Services
 }
 
 a { text-decoration: none; }
-
 </style>
+
+<h2>Please consider <a href="https://r4fo.com/donate">❤️donating</a><br></h2>
+<h2>We are low on funds<br></h2>
+<h2>All of my services are ran voluntarily and provided free of charge to anyone<br></h2>
+
 <div class="grid">
   <a target="_blank" href="https://search.r4fo.com"><img src="/images/searxng.png" alt="Searxng logo" /></a>
   <a target="_blank" href="https://minisearch.r4fo.com"><img src="/images/minisearch.webp" alt="MiniSearch logo" /></a>
