@@ -10,12 +10,11 @@ description: Donate
 All proceeds will be used to pay for the infrastructure costs. The rest will be kept for the upcoming months.
 Here is an overview of my monthly expenses:
 
-|Total:|~€14,42 / month|   |
+|Total:|~€11.25 / month|   |
 |---|---|---|
-|Domain|€9 / year||
+|Domain|€15 / year||
 |Oracle server|€0|general hosting|
 |Netcup server|€30 / quarter|video streaming|
-|BuyVM server|€11 / quarter|reverse proxy|
 
 <hr>
 
