@@ -5,6 +5,9 @@ draft: false
 language: en
 description: Services
 ---
+<h2>Please consider <a href="https://r4fo.com/donate">❤️donating</a></h2>
+<h2>We are low on funds</h2>
+<h2>All of my services are ran voluntarily and provided free of charge to anyone</h2>
 
 <style>
   .grid {
@@ -19,10 +22,6 @@ description: Services
 
 a { text-decoration: none; }
 </style>
-
-<h2>Please consider <a href="https://r4fo.com/donate">❤️donating</a></h2>
-<h2>We are low on funds</h2>
-<h2>All of my services are ran voluntarily and provided free of charge to anyone</h2>
 
 <div class="grid">
   <a target="_blank" href="https://search.r4fo.com"><img src="/images/searxng.png" alt="Searxng logo" /></a>
