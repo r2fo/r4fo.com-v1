@@ -27,10 +27,11 @@ For one time donations, choose Ko-Fi
 <hr>
 
 ## Donate Cryptocurrency:
-<img src="/images/icons/monero.svg" alt="Monero" width="50"/> 89dEuYmDRW3RmpeYRe7SkeSUDz81mKpR58peNTyHWuqWL7C8K4j6KPNDry9UCJP9z8K8mSTbEyENHGw6WPRY9V7TNW365Vb <br>
-<img src="/images/icons/bitcoin.svg" alt="Bitcoin" width="50"/> bc1q0v4kawv2krcvfkjm3waznnffymr0qv47fp9cs9 <br>
-<img src="/images/icons/ethereum.svg" alt="Ethereum" width="50"/> 0xba7d57cafc42f800b1f0ba6c9bf976422804cbed <br>
-<img src="/images/icons/litecoin.svg" alt="Litecoin" width="50"/> ltc1qcl8ctr90vnku5qehfjznny7mls40tygzcyfuw9 <br>
+<img src="/images/icons/xmr.png" alt="Monero" width="50"/> 89dEuYmDRW3RmpeYRe7SkeSUDz81mKpR58peNTyHWuqWL7C8K4j6KPNDry9UCJP9z8K8mSTbEyENHGw6WPRY9V7TNW365Vb <br>
+<img src="/images/icons/btc.png" alt="Bitcoin" width="50"/> bc1q0v4kawv2krcvfkjm3waznnffymr0qv47fp9cs9 <br>
+<img src="/images/icons/eth.png" alt="Ethereum" width="50"/> 0xba7d57cafc42f800b1f0ba6c9bf976422804cbed <br>
+<img src="/images/icons/ltc.png" alt="Litecoin" width="50"/> ltc1qcl8ctr90vnku5qehfjznny7mls40tygzcyfuw9 <br>
+<img src="/images/icons/nano.png" alt="Nano" width="50"/> nano_3thcxq1jbhunqoiubiyg9xinnr6wxb3d9c5fcxoqxwxa33wnj5qb141zrg6j <br>
 
 <hr>
 
