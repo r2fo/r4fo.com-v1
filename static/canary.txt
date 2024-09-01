@@ -1,6 +1,5 @@
 R4fo.com Warrant Canary
 =======================
-Inspired by IVPN's warrant canary
 
 This warrant canary is updated at least once per month with: 
 - A declaration that, up to that point;
