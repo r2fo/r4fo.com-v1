@@ -17,7 +17,7 @@ tags: News
 
 <hr>
 
-### 16 June 2024
+### 2 June 2024
 
 This post is my explanation of the Piped instance's 1 week downtime;
 
@@ -32,7 +32,7 @@ Unfortunately there is some latency, but at least it works now. I have also crea
 
 I apologize for the downtime
 
-### 30 June 2024
+### 16 June 2024
 
 I am now routing all Piped traffic through a VPN, everything is working again but I need to rotate VPN servers every day to avoid disruption.  
 The New York VPS is no longer in service, Piped is running from Germany 🇩🇪 again
