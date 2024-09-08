@@ -107,4 +107,4 @@ a { text-decoration: none; }
 - 🛡️ Everything Proxied
 # [🧅 Tor Relay 1](https://metrics.torproject.org/rs.html#details/6C336E553CC7E0416EBC8577A7289349B757F6C3)  
 - ⚡️ Middle/Guard Relay
-- 🛜 300 mbits/s - 400 mbits/s burst
+- 🛜 100 mbits/s
