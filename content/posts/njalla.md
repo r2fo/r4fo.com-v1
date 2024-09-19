@@ -12,7 +12,7 @@ categories: Transparency
 tags: Transparency
 ---
 
-I recently transferred r4fo.com's domain from Spaceship to [Njalla](https://njal.la) for both privacy and security reasons.  
+I recently transferred r4fo.com's domain to [Njalla](https://njal.la) for both privacy and security reasons.  
 I also believe Njalla’s vision aligns more closely with the values of r4fo.com.
 
 Nothing has changed for you. This post is just informational
