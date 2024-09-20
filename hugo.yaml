@@ -50,9 +50,19 @@ params:
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Privacy Services"
-  description: "Use all the popular platforms without exposure to 📢 ads, 👁️ tracking and ☝️fingerprinting."
+  description: Free public privacy frontends for everyone. Allowing you to access popular platforms without getting exposed to 📢 ads, 👁️ tracking and ☝️ fingerprinting.
   disable_theme_toggle: true
   disable_stay_uptodate: true
+
+  p1:
+    heading: "About R4fo.com"
+    image: "images/pages/our-mission.png"
+    content:
+      - text: "I am a student who is passionate about privacy and concerned about the surveillance done by many companies these days. That's why I host privacy frontends for anyone to use"
+      - text: "All my services are free to use and sustained by donations"
+      - text: "These privacy frontends work by proxying your requests. You talk to my server, and my server talks to the destination. This way the destination does not know who you are. And as an added bonus, my server strips all ads & trackers and makes fingerprinting ineffective"
+      - text: "How is this private? My server does not log any requests. Since anyone can use these services, your activity is mixed with traffic from other users"
+      - text: "Can I trust you? Of course you should not blindly trust anyone on the internet. Depending on your threat model, you may want to use a VPN/Tor or even consider self-hosting these services"
 
   p4:
     heading: "From the blog"
