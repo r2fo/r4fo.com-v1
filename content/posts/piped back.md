@@ -17,28 +17,36 @@ tags: News
 
 <hr>
 
-### 16 June 2024
+### 2 June 2024
 
-This post is my explanation of the Piped instance's 1 week downtime;
-
-YouTube recently introduced a new block that requires login to watch videos <br>
+YT recently introduced a new block that requires login to watch videos <br>
 I tried a lot of things, like rebooting, reinstalling and rotating IP's <br>
 But they had blacklisted my entire IPv6 /64 <br>
 Due to exams I didn't have time to really go into depth to fix it.
 <br>
 
-Today I finally found a little bit of time to deploy a new VPS in New York 🇺🇸 (because I had some free credit there) and I migrated Piped to there. <br>
+### 14 June 2024
+
+Today I finally found a little bit of time to work on this issue.  
+I've deployed a new VPS in New York 🇺🇸 (because I had some free credit there) and I migrated Piped to there. <br>
 Unfortunately there is some latency, but at least it works now. I have also created a [Mastodon account](https://mastodon.social/@r4fo) where I post these kind of short status updates
 
-I apologize for the downtime
+### 15 June 2024
 
-### 30 June 2024
+YT has IP banned the New York VPS
 
-I am now routing all Piped traffic through a VPN, everything is working again but I need to rotate VPN servers every day to avoid disruption.  
-The New York VPS is no longer in service, Piped is running from Germany 🇩🇪 again
+### 16 June 2024
+
+I have migrated Piped back to the German VPS  
+I am now routing it through a VPN, everything is working again and I have a script to rotate VPN servers daily to avoid disruption    
+The New York VPS is no longer in service  
+
+### August 2024
+
+YT has started banning some VPN servers, making me have to manually rotate VPN servers every day   
 
 ### 8 September 2024
 
-It seems like most VPN servers have been IP banned by YouTube.  
+It seems like most VPN servers have been IP banned by YT  
 Many Piped instances do not work anymore, including mine  
 Unfortunately there is nothing I can do at this moment and I’m currently waiting to see how the situation develops  
