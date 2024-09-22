@@ -1,4 +1,4 @@
-baseURL: ''
+.baseURL: ''
 title: R4fo.com
 languageCode: en-us
 DefaultContentLanguage: en
@@ -50,7 +50,7 @@ params:
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Privacy Services"
-  description: Free public privacy frontends for everyone. Allowing you to access popular platforms without getting exposed to 📢 ads, 👁️ tracking and ☝️ fingerprinting.
+  description: Free privacy frontends for everyone. Allowing you to access popular platforms without getting exposed to 📢 ads, 👁️ tracking and ☝️ fingerprinting.
   disable_theme_toggle: true
   disable_stay_uptodate: true
 
