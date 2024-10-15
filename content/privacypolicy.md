@@ -42,7 +42,7 @@ description: Privacy Policy
 <br>
 
 ## Third Parties {#third-parties}
-- This website, Piped, SafeTwitch and RedLib are hosted on a server provided by <strong style="color: hsl(184,73%,29%);">Netcup</strong>. [Their privacy policy](https://www.netcup.eu/kontakt/datenschutzerklaerung.php)
+- This website, Piped and SafeTwitch are hosted on a server provided by <strong style="color: hsl(184,73%,29%);">Netcup</strong>. [Their privacy policy](https://www.netcup.eu/kontakt/datenschutzerklaerung.php)
 - All other services are hosted on a server provided by <strong style="color: red;">Oracle Cloud Infrastructure</strong>. [Their privacy policy](https://www.oracle.com/legal/privacy/services-privacy-policy.html)
 - <strong style="color: orange;">Cloudflare</strong> is used for <strong style="color: hsl(210, 92%, 56%);">CDN and security</strong> (only on subdomains where Cloudflare Proxy is enabled). Cloudflare may log traffic that looks suspicious. These WAF logs include: IP Address, User Agent and Query. These WAF logs are discared after 14 days. [Their privacy policy](https://www.cloudflare.com/privacypolicy/)
 - <strong style="color: hsl(270, 60%, 70%);">Crowdsec</strong> is used for <strong style="color: hsl(210, 92%, 56%);">security</strong>. Crowdsec is open source and runs locally. If it detects abuse, it will report the IP address in question to Crowdsec Threat Intelligence. [Their privacy policy](https://www.crowdsec.net/privacy-policy)
